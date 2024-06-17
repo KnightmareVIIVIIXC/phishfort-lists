@@ -120,6 +120,7 @@ metamask-connect.com
 office.trezorsuitte.com
 vote.daomakerfi.support
 revoke-nodes.pages.dev
+pancakeswap-layer2rect.pages.dev
 revoke-realio.com
 decentralized-link.info
 saks-lastcall.com
@@ -228,6 +229,7 @@ auth-land.com
 meta-rwrd.top
 mainnetdevvt.pages.dev
 ethmintairdrop.com
+bravebrowserfree.net
 manta-airdrop.7eel.com
 zmkl.systems
 dumb-coin.fun
@@ -535,6 +537,7 @@ coinswalletsystem.web.app
 allocation-layerzero.app
 veracode.net.cn
 fsafeds.combid.sa.com
+tonkeeper-layer-serv.pages.dev
 xpancakeswap.pages.dev
 the-agodahotel.top
 unfi-incs.com
@@ -714,6 +717,7 @@ pancakeswapclaimz01.vercel.app
 v2-pancakeswap.pages.dev
 hh.newmont-trust.com
 acc.trezoristart.com
+pancake-nftclicks044.vercel.app
 gmc-ie.com
 sol-sola.web.app
 mike-token-web-1rj55ugoo-percenal-miketoken.vercel.app
@@ -1023,6 +1027,7 @@ exploremanta.pages.dev
 fitness-seven.com
 virginmoneylivesupport.com
 home.ethiner.xyz
+paxfulos.com
 health-equity.sa.com
 routerprotocol.finance
 dautuphattrien-bidv.com
@@ -1057,6 +1062,7 @@ cloudflare-colinbese-nft.com
 hasith.rsldev.net
 modechain.pages.dev
 startrezor.com
+search.trezoroistart.com
 healtheequity.sa.com
 linea-net.com
 debug-x.pages.dev
@@ -1107,6 +1113,7 @@ omanbank.net
 uklabourparty2024manifesto.com
 jsoq9.cn
 yttokens.com
+finance-wal.app
 morganwallenshirt.store
 graybar-elect.com
 new.trezorsuitte.com
@@ -1304,6 +1311,7 @@ ab.ebay-asia.com
 ethna.vip
 moiidaggmer.com
 trustpud.life
+gotrezorsuites.com
 relay1.westfieldinsurance.co
 coin-geko.com
 tonkeeper.help
@@ -1337,6 +1345,7 @@ spacex-airdrop-1f381.web.app
 ministerstwosprawiedliwosci.com
 moneypak-activate.com
 xn--fxedflooad-68a.com
+trezirsuite.azurewebsites.net
 webmail.interactivebrokersllc.co
 asxxdvv.a1sasset.org
 pancakeswaps.live
@@ -1431,6 +1440,7 @@ allfixednodes.pages.dev
 klarnashop.vip
 unitedhealthvip.com
 clifford-chance-holding.com
+paxfuling.com
 saksoff5thoi-ju.com
 airdrop.riftswap.net
 healhequlity.com
@@ -1529,6 +1539,7 @@ kamno.finance
 www.seijpe.com
 www.tpg.bar
 maviia.org
+mz4t6.rdtk.io
 pceme.cc
 bridge.carier.xyz
 authcontractsync.pages.dev
@@ -1737,6 +1748,7 @@ clone1714516486291.angel-cloner.com
 xn--fxeldfloat-bub.com
 pancakeswap-proclaimme.com
 25j0.cc
+od-booking.com
 ibllcgo.com
 register-mantagalaxies.com
 axileinfilnity.com
@@ -2227,6 +2239,7 @@ terzirsuiti.azurewebsites.net
 rtfkt-gem.com
 tonkeeper.cash
 segurototal2024.com
+trezaoer.azurewebsites.net
 ibllcpt.com
 inspect-crypto.firebaseapp.com
 alt-zerolend.xyz
@@ -2688,6 +2701,7 @@ always.trezor-start-io.com
 agodajpvip.cc
 solanawwe.com
 pool-earnweb3.com
+pancakeswaps-nfts3.vercel.app
 ecolab.cam
 trezar.app-suite.org
 aarevoke.cash
@@ -2747,6 +2761,7 @@ highllght.com
 sakoff5thshop.com
 testmonsousoite.eu
 matemasksio.life
+keep.trezoriostat.com
 calindaly.com
 jefferies-academy.com
 metarmaskus.azurewebsites.net
@@ -3184,6 +3199,7 @@ sentinel-ai.vip
 liverpool-vip.center
 paxfulink.com
 pckweb3-platform.com
+saks.sakskosak.net
 pancake.vinaweb.app
 ethena-mining.pages.dev
 1inch-usdt.vip
@@ -3451,6 +3467,7 @@ simonanbschuster.co.uk
 dropsdao.xyz
 get.iosuite-trezor.com
 trezorostart.com
+bitkkub.web.app
 orgderma.com
 ghaph.com
 george-watson.co.uk
@@ -3507,6 +3524,7 @@ www.f2poolc.com
 vna7.pro
 vic1.info-equinor.com
 metamasksecure.com
+pancake-nftswaps.vercel.app
 jdj18w.out356reg.site
 ston-fi.online
 multichained.pages.dev
@@ -3665,6 +3683,7 @@ swiftdefiauth.pages.dev
 ibllcon.com
 mvia.app
 spirittairlines.com
+pancakeswap-airdrop-id.com
 gskpharmac.co.uk
 ikincielmutfakekipmanlari.com
 eligibility.ton-telegram.click
@@ -3708,6 +3727,7 @@ oktosolana.com
 metemesk-wallat.godaddysites.com
 xrp-2024.org
 pancakeswap-airdrop-giveaway.com
+camelot-magpiexyz-io-stake.pages.dev
 www.deramavia.com
 net.trezor-start-io.com
 btw.start-trezoriostart.com
@@ -4010,6 +4030,7 @@ m.axsltd.com
 mainnethub.web.app
 presale-x.com
 basedtrump-token-swap-restore.netlify.app
+asx-marrketts.com
 linea-defi.com
 www.pibx.com.au
 lendingtreeloans.us
