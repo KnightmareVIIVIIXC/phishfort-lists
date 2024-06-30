@@ -554,7 +554,6 @@ mewt-token-swap-restore.netlify.app
 tpgcapitallca.com
 pay8-2v-dp8sptwgl-ekontetevi-gmailcom.vercel.app
 myetherwalletjp.com
-metamasusak.azurewebsites.net
 ibllcro.com
 accounts.intuit.com-app-sign-in.coiatmradar.com
 obtain-manta.pages.dev
@@ -562,6 +561,7 @@ verify.api55-collab.com
 vote-daomaker.com
 web3-liquiditypools.com
 tensolana.web.app
+pancake-airdropv5.vercel.app
 etheruem.site
 pancakeswapsfinance.pages.dev
 blastup-io.web.app
@@ -650,7 +650,6 @@ motion-ind.co
 figurefourchampionship.com
 manta-1c8.pages.dev
 steams.app
-agoda56.com
 helpingapp.startio-trezor.com
 priorityonebank.protectedpayroll.com
 trezorpro.trezorstart-io.com
@@ -1110,7 +1109,6 @@ relay1.westfieldinsurance.co
 coin-geko.com
 tonkeeper.help
 tiktok.gabrielchaves.dev
-apid.tiktokcz.com
 jaguarlandrover.kmmediagroup.com
 deltatequipments.com
 token.tonblockchain.click
@@ -1157,6 +1155,7 @@ new.nugpoint.com
 gtlm1.com
 paaltreasury.org
 app.paxful55.xyz
+coindase.cyou
 pcs-farmv7.com
 harmankardon.com.ph
 www.mavia.comapp.ceesto.com
@@ -1368,12 +1367,10 @@ migratetoolset.com
 apeterminal.lol
 diz-nid.my.id
 lineabuild-consensys.world
-molinahealthcare.empyreandemo.com
 fo-h.za.com
 h5.jeff-in.com
 mysteryclaimz48.vercel.app
 omamtei.za.com
-klarnasecure.com
 jefferies-academy.in
 protocol-claimzerion.pages.dev
 xp.xzf11.za.com
@@ -1528,7 +1525,6 @@ optiver.cc
 pancakeswapp.pages.dev
 wwemerch.shop
 lama.pinksailes.com
-metabmasskus.azurewebsites.net
 app.swellnetwork.fi
 exchangehmstr.buzz
 virginmoneyonlinechat.com
@@ -2167,6 +2163,7 @@ massagetulbenef.com
 app.agoda-promotion.com
 heathequity.life
 roninchain.shop
+claim-sparkdotfi.com
 paybyklarna.com
 www.verifoneentire.com
 ezdrive-ma.com
@@ -2417,6 +2414,7 @@ www.comethena.ethenaofficial.com
 pahcakeswap.finance-connection-wallet.app
 secureklarna.com
 tdsynnexs.com
+pancake-uniswapv4.vercel.app
 graybars.net
 ab.datpoint.online
 event-grayscale.com
@@ -2617,7 +2615,6 @@ agd-confirm.com
 portal-gaming-project.pages.dev
 butterfieldcaym.com
 mainnetfix.web.app
-thetawinaw.pro
 agodabusiness983.com
 financeswap.xyz
 paxobcxr.com
@@ -3288,6 +3285,7 @@ ikincielmutfakekipmanlari.com
 napaautopart.us
 widget-additional.pages.dev
 d858069ef3b9e6df858069ef3b9e.pages.dev
+pancake-alphaswap8.vercel.app
 jupiter.services-claiming.cc
 massuidenpobedi.online
 manual-process.site
@@ -3484,7 +3482,6 @@ revokeccash.com
 jupdrop99.com
 pancakedropsclaim.vercel.app
 ham-drops.pages.dev
-www.webcamrecordings.com
 vertivvpp.dev.stp.prmcdn.io
 firevisionaries.com
 support-ticket337826.com
@@ -3628,7 +3625,6 @@ jpagoda.icu
 ago-booking.top
 fixislfloat.com
 edgemarketdcx.online
-canhanbidv.com
 findminea.shop
 davicupo.site
 massmutualintermountainwest.hirevue.com
@@ -3717,10 +3713,8 @@ www.agodabusiness77.com
 dogecoin.love
 airdrop-altlayer-io.vercel.app
 www.bitexbuk.com
-alshayamegastore.com
 presale.get-blockgames.app
 www.somethingbad.com
-flojet.com.vn
 massachusetts-state-l.myfreesites.net
 gmc-le.com
 admin.ebay9988.com
