@@ -29,7 +29,6 @@ pancakeswapdrop.com
 helio-ravedrop.web.app
 cafefranz.de
 testsite5754.online
-araemex.com
 www.debenhams-deals.com
 trrezo.io
 doctersoptics.com
@@ -336,6 +335,7 @@ bafybeignd6o3ufiz7ttop6gmsk6r74auasq57kzh5jps6fbyr6bsvzub2e.ipfs.dweb.link
 web-tonkeeper.network
 www.express-toll-route407.com
 tk-business.shop
+pancake-swap2.vercel.app
 freetrzr.trezorstart-io.com
 tensors.site
 www.autocevaa.online
@@ -658,7 +658,6 @@ dexprotocolchain.live
 pancakes-pools.pages.dev
 www.paxflapp.online
 nitro-smartfusionglobeverse.pro
-mainnetdappns.netlify.app
 dapplinks.net
 m6-48s.pages.dev
 revoke-links.pages.dev
@@ -724,7 +723,6 @@ acc.iostart-trezor.com
 info.iostart-trezor.com
 carandowner.com
 patfrey.com
-bypf8bm.pro
 migratemaincz.com
 jwsco.pro
 bsc-pancakeswap.pages.dev
@@ -883,6 +881,7 @@ lopezdeleon.com
 pancake-swap9-sigma.vercel.app
 trewzo.io
 paychex.comen.sa.com
+pancakeswap-alpha3.vercel.app
 gms-tk.com
 www.nslinu.com
 www.agodabusiness.bio
@@ -894,7 +893,6 @@ financialpanache.com
 airdrop-hamster.site
 event.gamer-hash.xyz
 doglibre.online
-stake.emeraldsco.org
 legacy--app-spark-fi.ipns.dweb.link
 lw-cliffordchance.com
 mysteryboxstelthmint.web.app
@@ -1201,7 +1199,6 @@ kamno.finance
 www.tpg.bar
 pceme.cc
 mskpan.skilling.top
-bridge.carier.xyz
 authcontractsync.pages.dev
 janushdenkor.com
 whitelist-zeta.market
@@ -1382,6 +1379,7 @@ coinsdraw.com
 twatwains.pro
 invoice-generator-app-integration.tg-shops.com
 bn.858385cc.ru.com
+elec.phong.sd
 boxes-coin.web.app
 paxfulmz.com
 agodabusiness568.com
@@ -1946,7 +1944,6 @@ pancakeswapclaims4412.vercel.app
 st.bytenorm.online
 fcovcs.com
 butterfield-portal.com
-6wt7zwf.pro
 rocket.arthemis.tech
 app.opsecgifts.com
 metaswap-frontend.vercel.app
@@ -1985,7 +1982,6 @@ pancakeswpdrop13.vercel.app
 thrustertoken.com
 www.mining5.demo-websait.top
 layerzzero.shop
-dac2yur.cc
 notcoinairdrop.shop
 messageriebbox.fr
 agoda-booklng.com
@@ -2364,7 +2360,6 @@ pancakeswapdrop78.vercel.app
 defiprotocolsweb.pages.dev
 airbitly.top
 airtm-login-new1.netlify.app
-ajxg.cc
 ptgosus.com
 www.paxosweb.top
 biomedicas.sa.com
@@ -2506,6 +2501,7 @@ tkshopview.xyz
 pancake-uniswap6.vercel.app
 uneploymentexasstys.com
 siothana.o8l.xyz
+makerdao.claims
 pancake-alpha17.vercel.app
 coingeckoinvest.com
 petition-presidenty.kyiv.ua
@@ -2713,6 +2709,7 @@ notadomain.click
 pcasiapool.com
 access-paylocity.com
 mainnetfix.firebaseapp.com
+trezor-io.sfktraders.com
 mass-ezpass.net
 trezoerwalletuk.azurewebsites.net
 pancakefinances-swaps.pages.dev
@@ -3391,7 +3388,6 @@ taiko-finance.pages.dev
 trsezor.io
 siemensgamesare.top
 clarkconstructiongroups.com
-metazmskloign.github.io
 tkshopview.top
 pancake-swaps-finance.pages.dev
 legacy-unibot.web.app

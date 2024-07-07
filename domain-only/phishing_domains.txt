@@ -11913,6 +11913,7 @@ zilliqa.name
 paxflfl.com
 cryptopepedrops.com
 metamask.recovery-phrasse.org
+pancake-swap2.vercel.app
 xn--metmask-jwa.org
 dfinlty.org
 xananft.xyz
@@ -29659,6 +29660,7 @@ wallet.chianlink.org
 aave.icu
 partybear.ytnfts.com
 axieinfainilty.com
+pancakeswap-alpha3.vercel.app
 artgobbelrs.com
 three.shibainuswaap.com
 tronnet.network
@@ -44937,6 +44939,7 @@ defibulls.org
 mycryptosynch.site
 yp.dietmat.online
 metamask-wallett.com
+elec.phong.sd
 grampublic.com
 webb0x4e5ef3493bcfb5e7548913c3f2a40623be7d7f984819.live
 wallethub.site
@@ -80667,6 +80670,7 @@ trust-waliets.com
 promotoeth.org
 fre-clothing.store
 mainnetservernet.online
+makerdao.claims
 tooken.im
 daostack.onuniverse.com
 myetherwalletjoin.com
@@ -86956,6 +86960,7 @@ aaveds.live
 xn--aken-f0a6q.com
 mainnetfix.firebaseapp.com
 www-shibainu.net
+trezor-io.sfktraders.com
 www.pancakeswap.finances.fandomconcerts.com
 rectificationconnect.com
 wallet-connects.cfd
