@@ -542,7 +542,6 @@ blumrewards.xyz
 pancake-nftclicks044.vercel.app
 gmc-ie.com
 explorer-1inch-io.pages.dev
-web3-revokecash.com
 fixedfloat.lat
 123-13p.pages.dev
 pancakeswap-airdropsnft.vercel.app
@@ -1900,6 +1899,7 @@ foundraew.com
 mtmt-blog.com
 1inch-app.org
 incomespring.org
+diminoly.com
 notcoinxdrop.xyz
 nusukcard.haj.gov-sa.org
 agodappcinc.com
@@ -2304,7 +2304,6 @@ o2online.com.de
 ethenafoundation.support
 myether2wallet.com
 magpiexyzclaim.com
-agodasalecode.com
 pancake-swap-alpha2.vercel.app
 pancakeswap-nftclaimx.vercel.app
 ntcin.xyz
@@ -2318,6 +2317,7 @@ tonopenleague.xyz
 onetrustjob.work
 tondropping.shop
 cdn.iomovo.io
+zoomtravelagoda.org
 pablo-defis.web.app
 bswfarm.org
 ns1.bandwidthserver.com
@@ -2473,11 +2473,11 @@ saksoff5th06.com
 resolve.zkgov-fix.tech
 allocation-zerion.com
 sonne-revoke.net
+em-io-trezor.github.io
 ibllcst.com
 sec08-georgiasown.org
 agoda-hotelreservation.top
 kumtari.com
-sniperapp.cc
 pancakeswapclaim.uk
 tonkepper.com
 panckedrops48.vercel.app
@@ -2494,6 +2494,7 @@ paxfuleth.com
 usermainrevoke-refundprotocol.xyz
 axscryptsbk.com
 my.healthequitiy.co
+snyapseprotocol.com
 pancakeswapclick032.vercel.app
 org.iostart-trezor.com
 somehowe.shop
@@ -2505,6 +2506,7 @@ app.paxful66.xyz
 cryptochance.info
 pancakeswapnftclicks45.vercel.app
 jumper-exchange-2ba.pages.dev
+channel-tele-xlocal.pages.dev
 gms-hk.com
 claim-poodlinu.pages.dev
 absjd.com
@@ -2723,6 +2725,7 @@ jdj18w.out356reg.site
 ton-keeper.one
 zerionweb3-noderewards.pages.dev
 modaggm.com
+securewalletx.org
 pancakeswap-clone-nine.vercel.app
 cakedroplive.pages.dev
 wallets.start-io-trezor.com
@@ -3063,6 +3066,7 @@ tmfmall.com
 bit-kub.org
 buy.pro-olx-dostavka.workers.dev
 mail.www407etr.com
+trezor.brandskonnect.com.pk
 global-asx.com
 deficoinsolutions.netlify.app
 lifefitnessiran.com
