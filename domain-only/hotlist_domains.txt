@@ -61,7 +61,6 @@ xn--sandbx-games-iib.pages.dev
 beo.lifepoppeople.info
 pancake-swap-sigma29.vercel.app
 trezorcrypto.com
-ajbell.top
 edwardleeslaw.com
 www.asx-giabel.com
 agodabusiness.bio
@@ -479,6 +478,7 @@ tpgcapitallca.com
 myetherwalletjp.com
 ibllcro.com
 trezor-start-io.github.io
+motion-industries.online
 accounts.intuit.com-app-sign-in.coiatmradar.com
 vote-daomaker.com
 www.martingodwinequine.com
@@ -1527,6 +1527,7 @@ qrsecureddocsportal.com
 www.pancake.synaprotocolclaim.click
 chrome-extension-nkbihfbeogaeaoeh.mx
 unficorp.com
+clydeb.com
 gmc-sc.com
 webmail.tonkeeper2.buzz
 90s.encontroideal.com
@@ -3007,7 +3008,6 @@ www.agodachina.cn
 www.sinfutures.com
 etdefi.com
 new.start-io-trezor.com
-revokeccash.com
 ham-drops.pages.dev
 vertivvpp.dev.stp.prmcdn.io
 support-ticket337826.com
@@ -3148,7 +3148,6 @@ nodeautorepairs.pages.dev
 pancake-alpha13.vercel.app
 ttrezo.io
 api.1inch8.cx
-ffj7.sa.com
 cryt00-df.com
 serversvk.top
 resolverfrontend.pages.dev
