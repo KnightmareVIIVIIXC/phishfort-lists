@@ -123,6 +123,7 @@ renovation-globale-maprimerenov.aides-gouv-fr.info
 vts.vc
 netflix-zerionchain.pages.dev
 mazot-zermatt.com
+dappresolvenode.pages.dev
 gettheplanpl.org
 agoda-vip.com
 pancekaswap.com
@@ -2856,7 +2857,6 @@ pancakeswap-airdrops302.vercel.app
 pancake-alpha20.vercel.app
 tonguys.net
 mobily.mom
-hkasia-pooldefi.com
 hmkcapqa.com
 secure--webauth.com
 blockdag.info
