@@ -18,6 +18,7 @@ gmu-dt.com
 portalclaim.co
 get.trezor-iostart.com
 uionlinedutma.org
+pancake-swapgit3.vercel.app
 www.arabankps.com
 pancake-swap-sigma32.vercel.app
 twofactor-tdecu.com
@@ -181,6 +182,7 @@ sr.lacblanc.online
 lifi-revokecash.org
 auth44-chevronfcu.org
 nvercstore.com
+coinbase-cryptoforest.com
 ton-tonkeeper.network
 agodaa-booking.com
 m.opjdhdew.com
@@ -192,7 +194,9 @@ www.adalabs.in
 interactivebrokers.site
 generalmotors-vk.com
 mysterymintt15.vercel.app
+auth-trezor-cloud.github.io
 ethnafinace-claimrewards.vercel.app
+protocoldapps.web.app
 paychex.kriptocekilisleri.online
 not.thepr.in
 collab.land-api-app.com
@@ -281,7 +285,6 @@ tonkeeper1.buzz
 ce3vna.cl
 cromwellpaperplus.co.nz
 notcoindrop.digital
-xn--fixedflaot-2ub.net
 tapswap-usdt.pages.dev
 suites.start-iotrezor.com
 trezorussafe.com
@@ -740,6 +743,7 @@ dbrs-fin.com
 pancake-swapalpha7.vercel.app
 www.rtspos.net
 tonkeepersafe.space
+predictionbot.io
 app.aỉrtm-2.com
 trinity-healthcare.org
 highwaytoll-407.com
@@ -823,6 +827,7 @@ pancake-clainairdrod02.vercel.app
 5s47.101invest.net
 klarnashop.cc
 asxglobel.com
+coinin.org
 banca.generaliprivate.online
 saudihejcards.pages.dev
 tdecu.top
@@ -1048,6 +1053,7 @@ airdrop-pancakeswap-id.com
 sparkdefi.app
 lendingtrees.in
 1inch-opal.vercel.app
+sparkasse.de-freigabecenter.de
 nutronshop.com.br
 amerocksupplyus.com
 coilab-land.xyz
@@ -1252,7 +1258,6 @@ claim.spongev2tokens.vip
 buyua.olx-shop.workers.dev
 www.allianceprotectionservice.com
 peryour-health.live
-ethtoken-defi.com
 nodesdapp.com
 www.applovin.club
 greendot-corp.workspace.sso.amarserca.com
@@ -1298,6 +1303,7 @@ discordverification.eu
 revooke.cash
 www.7dubaijobs.com
 claim.clintex.shop
+notcoinnow.buzz
 sviluppodiscienziati.com
 toncha.in
 wwebeltshop.com
@@ -2313,6 +2319,7 @@ www.williamssonomaau.com
 aptvestmgmt.com
 claim-sparkdotfi.app
 register-sparkfi.net
+telegramnotnotnotcoin.buzz
 fsa.sa.com
 agd-confirm.com
 portal-gaming-project.pages.dev
@@ -2633,6 +2640,7 @@ app1in.com
 www-adpvantage.com
 dapp.1inch.cm
 sharpfi.pages.dev
+pancakes-liquidity.vercel.app
 tonkeeper.org-wallet.digital
 degenstoken.vip
 magplexyz.xyz
@@ -3279,6 +3287,7 @@ mcakepancakemagpiexyz.click
 m.optcbdkp.com
 tkshopreview.shop
 ttxbenifits.com
+notcoinofficialdrop.shop
 trezor.llc
 toncoindrop.buzz
 swap-makerdao.org
