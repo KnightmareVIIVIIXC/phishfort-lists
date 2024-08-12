@@ -53,6 +53,7 @@ autostakeconnector.pages.dev
 alshaya.website
 interactive-brokers.io
 trezkr.io
+tru-veta.com
 connectsyc-fixer.pages.dev
 pancakeswapdrop15.vercel.app
 porrtallenpresa.site
@@ -372,7 +373,6 @@ login-trezor-wallet.com
 www.pancakes-claim.com.link-chaln.com
 botterfieldsline.com
 pancake-swap-sigma8.vercel.app
-revoke-cash-auv.pages.dev
 tiktokworldmall.com
 pancakeswap.service-foundation.link
 pancakeswaps-finances.vercel.app
@@ -610,6 +610,7 @@ surepayroll.us
 pancakeswap-finance.vercel.app
 pancake-claim-dg2q.vercel.app
 app.paxful99.xyz
+en-us-1inch-exchange.org
 fix-error.pages.dev
 dappzillfix.pages.dev
 tonkeepper.com
@@ -622,7 +623,6 @@ ablimr.live
 pancakeswap.website
 www.offics10fr.kissmypaw.com
 www.paxos-pro.com
-panccakeswarp.netlify.app
 www.haj-gov-sa.com
 realtime.www.gmresearch.info
 blocksresolve.pages.dev
@@ -681,6 +681,7 @@ miles-plume-network.pages.dev
 contractnode.pages.dev
 www.eftoursap.cc
 applovin-us.com
+ajbellbonds.co.uk
 app-start-trezor.github.io
 fireblock.info
 umusic-pub.com
@@ -688,7 +689,6 @@ xecwalet.github.io
 www.agodabusiness66.com
 insidercomment.com
 gm.super-small-data.com
-pancakesavp.org
 applovin-is.com
 pgim1.com
 riop.in
@@ -767,6 +767,7 @@ xbpuer.com
 app-jumper.markets
 trezoriostart.org
 pancake-clainairdrod02.vercel.app
+kernel-protocol-en.pages.dev
 5s47.101invest.net
 coinin.org
 lclinic.net
@@ -780,6 +781,7 @@ futsete.za.com
 www.eftoursap.com
 wapp.top
 axie-skymavis.tech
+service-app.cc
 humstr.com
 lushlifeexpert.com
 dappsintegration-rectify.pages.dev
@@ -1468,6 +1470,7 @@ cliffordchance-ldn.com
 pancake-swap-live-iqkf.vercel.app
 qp31xl13p.com
 keuangan-tiktok.thebuzank.id
+paxfulagv.com
 9che7vron6.cc
 tk-shop.app
 revokeit.xyz
@@ -1538,6 +1541,7 @@ clark-constr.com
 aghotel.top
 mm-h3.top
 chain-claimzerionindex.pages.dev
+arabjobank.info
 webfireblockss.com
 waxil20834.convertbuilder.com
 ago33.com
@@ -1668,6 +1672,7 @@ trumpwwe.com
 cee.pariud.live
 pancakeswapclaim-drops.vercel.app
 beer.wheelonsale.com
+cannan.pages.dev
 1inch-defi.vercel.app
 agodacoupons.com
 tiktok-shopchat.com
@@ -1869,6 +1874,7 @@ nuskin.host
 errortrzr401.trezor-suite.org
 tokenrevive.net
 www.tiktok-home.com
+1inch-airdrop-b5b.pages.dev
 firstamericantitlefs.com
 m.ophuysdw.com
 trezordigitaltrades.ozedpanel.trial.rocks
@@ -1963,7 +1969,6 @@ tonusdt.net
 blum-crypto.digital
 always.trezor-start-io.com
 solanawwe.com
-pool-earnweb3.com
 pancakeswaps-nfts3.vercel.app
 wapsmaindefiblock.pages.dev
 mainnet-chain.pages.dev
@@ -2034,6 +2039,7 @@ airtm.150porciento.com
 keycoraldesigns.com
 vertivco.ppg.chi.v6.pressero.com
 ef014cb8-d0c6-4de9-a968-d99af24b9bfc.o-handler-network.com
+paxfulafn.com
 pahcakeswap.finance-connection-wallet.app
 pancake-uniswapv4.vercel.app
 graybars.net
@@ -2181,6 +2187,7 @@ trezor.club
 klarnas01.cc
 trades-getgems.io
 vote-magpiexyz.io
+ua-zelengo.top
 tawwinneyy.pro
 pancakedropclaim4x.vercel.app
 eycc.tech
@@ -2311,6 +2318,7 @@ privacy-dapps.pages.dev
 melikataheri.com
 tiktokkj.com
 shop.tiktok-k3.com
+arabjobank.net
 auths-lab.pages.dev
 finance-pancakeswap.pages.dev
 glaberkantonalbank.com
@@ -2370,6 +2378,7 @@ paxosme.me
 tonnectgiveaway.pages.dev
 gmc-vs.com
 buyvenoferonline.com
+en-web-1inchjoin.network
 cp-viet.com
 penguinpublishers.us
 tredzor.io
@@ -2585,6 +2594,7 @@ mail.bremerbk.com
 coin-node.civilconcession.com
 butterfieldalerts.com
 gmo-kt.com
+trezor-firmware-update.one
 trezor-wallet-trezor.net
 bridge-ttrezor-io.github.io
 nytolls2229.com
@@ -2637,6 +2647,7 @@ eu-web-1inch.network
 coinmarketsexpert.com
 tiktokzzz.com
 aepenergy.store
+roninstaking.com
 notcoin-drop.eu
 tiktokglobalshopmall.com
 notcoin-ton.shop
@@ -2933,6 +2944,7 @@ fedreservenet.site
 tonchains.one
 aiiocation-makerdao.app
 atmospipelinestorages.com
+arabjobank.org
 1lnch-app.us
 update.trezorstart-io.com
 in-jefferies.com
@@ -3048,6 +3060,7 @@ global-asx.com
 www.agodasup.vip
 kwsnl.com
 trytrzr.trezorstart-io.com
+ua-chemp.top
 unlink-trezor.com
 pancake-nftclaim98.vercel.app
 www.bankarab.net
@@ -3060,6 +3073,7 @@ join-magpiexyz.net
 yourcareeratksa.com
 pancakeswap01.airdrops.quest
 trezorlimo.com
+paxfulfbn.com
 pancake-swap-sigma15.vercel.app
 notcoinairdrop.link
 molinahealthcarein.com
@@ -3108,6 +3122,7 @@ airtm.xyz.foxchanger.com
 trezronline.trezoroistart.com
 bridge.pulsechain-app.com
 petroside.com
+oneinch.app
 x5d.practicallyspeakingmd.com
 www.eftours.online
 saksosfef5thoo12.com
@@ -3152,6 +3167,7 @@ pancakeswapclaim24.vercel.app
 eng-start-trezor.github.io
 www.agodaindo.com
 tyrezo.io
+paxfulowd.com
 tontg.co
 wwwmagpiexyz.io
 newmont.love
