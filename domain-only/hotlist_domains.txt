@@ -241,6 +241,7 @@ app-1incsh.pw
 web.start-trezoriostart.com
 ticklsjpp.cvxcs.com
 pancekaswep.com
+ibkrb.com
 pprl.angfica.com
 treizorweb.azurewebsites.net
 trezor.io-en-us.one
@@ -1593,7 +1594,6 @@ trezorstart.io
 start-m-trzor.github.io
 officalpage.startio-trezor.com
 allhumdollilah.com
-1.fufuflank.workers.dev
 tonkeper.buzz
 revoke-bxp.pages.dev
 andeavorlogisticslp.com
