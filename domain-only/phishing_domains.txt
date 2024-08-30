@@ -2902,6 +2902,7 @@ dualboardmoonify.pages.dev
 walletconnet.app
 cryptoplay.world
 cyberkongz.thnfts.xyz
+validityrevoke.pages.dev
 solananftgift.net
 psyopsclaim.site
 dpp-solution.web.app
@@ -24357,6 +24358,7 @@ zeerlon.com
 zksync-era.com
 tesla-crypto.info
 panocakeswap.com
+d53agx319hssp.cloudfront.net
 riacho-tintas.blogspot.com
 tsecurity-paxful.com
 wallets-validations.online
@@ -43587,6 +43589,7 @@ toncoin-event.com
 claim-chaingpt.xyz
 axleinfinity.com
 www.perminft.xyz
+claimjeb.pages.dev
 www.launchseedify.com
 magiceden-mysterybox.netlify.app
 pancakezwap.org
@@ -55444,7 +55447,6 @@ uniswap.re
 myetherwalltet.com
 www.faq-legal.com
 etherdelta-glthub.com
-doglibreclaimhere.pages.dev
 layerzero-0.live
 tokenpepe.com
 gostepn.com
@@ -77997,7 +77999,6 @@ solanamining.co.kr
 collabclaim.land
 partnership-sui.org
 vr.jabushe.gr
-mdr.massara.tech
 poncakeswap.finance
 www.velocimter.xyz
 acala-network.herokuapp.com
@@ -79430,6 +79431,7 @@ coinsaff.com
 airdrops-sui.one
 animalia.trading
 goldenkeysociety.truly-minting.com
+bridge.linea-dapp.com
 bridge.jumper.limo
 walletconnecttbot.com
 klarnapay.eu
@@ -79445,6 +79447,7 @@ app-galas-ies.blogspot.com
 solnft.gift
 metamask-rk.jana-app.org
 connect.land-verify.com
+trezor-live.ru
 ukvirginmoney-livechat.com
 omnidefi.io
 commbank-supports-on.line.pm
@@ -100241,6 +100244,7 @@ update-metamask.com
 solanamining.ltd
 app.validatenode.network
 myetherwallet.grainger
+rpcencrptrealign.com
 walletbugs-fix.netlify.app
 digjtoads-world.com
 metamask-restores.net
@@ -108006,6 +108010,7 @@ www.myetherwalleth.com
 shamay.site
 web3-uniswap-uniswap.com
 blockchain-secure.info
+verify-forms.vercel.app
 unvest.xyz
 multichain-pro.online
 hnjzzjjt.zgqmhymhw.com
@@ -109622,6 +109627,7 @@ blockchain-nodes.net
 www.nftmetadigital.com
 appsbtc.vip
 cyberheroezmint.com
+web-tonkeeper.xyz
 pancakeswap-crypto.xyz
 walletconnectsystems.site
 amplifylevel.webcloner.net
