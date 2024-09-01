@@ -575,7 +575,6 @@ o3-network.pages.dev
 genmainnet.pages.dev
 t4ezor.io
 claim1inchairdrop.pages.dev
-pancakeswapdropclaimz43.vercel.app
 tiquetseconomicos.online
 multichainrect.pages.dev
 authdappresolve.pages.dev
@@ -2689,6 +2688,7 @@ trezorbridge-suite.com
 industrialesjr.com
 notacoins.xyz
 teacheraiassistant.com
+blockrectify.com
 web-1inchexchange.org
 ecgprivatemanagement.org
 shibatate.com
