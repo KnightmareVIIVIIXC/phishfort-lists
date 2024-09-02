@@ -1387,7 +1387,6 @@ omtel.selfcare.sa.com
 1inchmin.xyz
 pancakeswap-alpha10.vercel.app
 siemens-energyuae.com
-trustpad-dp.com
 webfireblocks8.com
 grezor.io
 pancake-alpha18.vercel.app
@@ -1448,6 +1447,7 @@ dappwebresolvers.pages.dev
 trezo4.io
 nodemultifix.pages.dev
 pancake-swaplive-01.vercel.app
+ton-keeper.website
 bafkreicbidmbfxph5xvx5pr63wg3uvh7ta2avjy2zwpk42kfe4y4q56rii.ipfs.dweb.link
 support.trezor-iostart.com
 1lnch-network.com
@@ -1651,7 +1651,6 @@ acroniscloudreport.com
 saksoff5the.com
 nbluxury1.com
 encryiptchaiins.pages.dev
-paxfual.com
 m.opfrhsdad.com
 www.tiktok-shoptk92.com
 doglibres.com
@@ -1952,7 +1951,6 @@ restoremainnethub.pages.dev
 diminoly.com
 notcoinxdrop.xyz
 capitalguardians.org
-agodappcinc.com
 auth.trezorstarti.com
 harmanerkardonstore.shop
 trezzorewlleet.azurewebsites.net
@@ -2203,7 +2201,6 @@ doglibreclaim.pages.dev
 employees.carlsberg.site
 multicoinsmartweb.pages.dev
 saudiexchange.online
-www.agodabusiness99.com
 www.dorsetutilitiesgroundworks.co.uk
 felixccivil.com
 tiktok1.vip
@@ -2566,7 +2563,6 @@ bookingovip.com
 cryptochance.info
 www.pan.ncakeswap.info
 pancake-swap-mu9.vercel.app
-pancakeswapnftclicks45.vercel.app
 weboffice3.vercel.app
 channel-tele-xlocal.pages.dev
 leannamarie-draws.ru.com
@@ -2633,7 +2629,6 @@ globaltiktok.shop
 playdoge-game.pages.dev
 newmont-o2o.com
 pancakes-swap.vercel.app
-paxfulful.com
 trezzzor.com
 magpliexyz.pw
 claim-zetamarket.net
