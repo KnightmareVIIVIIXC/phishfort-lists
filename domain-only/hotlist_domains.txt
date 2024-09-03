@@ -235,7 +235,6 @@ resolve-dappx.pages.dev
 magpiexyz.unstake.app
 app-1incsh.pw
 web.start-trezoriostart.com
-ticklsjpp.cvxcs.com
 pancekaswep.com
 ibkrb.com
 pprl.angfica.com
@@ -288,6 +287,7 @@ tiktok444.com
 www.app.1inch.io-v4.26-51.sbs
 app-trezor-start.pages.dev
 gms-mk.com
+hanonsystems.tdr.tienda
 op.yvuyb4.click
 hostchainaccess.pages.dev
 paychex.brnamanagement.com
@@ -1184,7 +1184,6 @@ world-wallets.com
 paxfulxbi.com
 tzrioriiosuitie.azurewebsites.net
 lendingtreefinancial.in
-h5.jeff-in.com
 omamtei.za.com
 trrezoerwallet.azurewebsites.net
 mytawtaweny.pro
@@ -2103,6 +2102,7 @@ hsc-gov.com.ua
 exchange24h.com
 vkzerkalo.site
 signup-usecorn.com
+trezor-io.fm5ab.org
 andycoinclaimapp.pages.dev
 ajbell-cec.com
 tiktokqwr072.com
@@ -2328,7 +2328,6 @@ sem-energy.net
 allresolved.pages.dev
 bridge.linea-dapp.com
 trezor-live.ru
-correctcakedata.online
 allpancake-swap.pages.dev
 pspamelaslocum.com
 ffsafeds.com
@@ -2389,7 +2388,6 @@ pancakeswap.flnance.web3-app.ink
 stackingda0.pages.dev
 magpiexyzclaim.com
 pancake-swap-alpha2.vercel.app
-pancakeswap-nftclaimx.vercel.app
 ntcin.xyz
 agoda.trzi.my.id
 pepsi8.com
@@ -2501,7 +2499,6 @@ hudsonbayllp.com
 click.trezoriostat.com
 paxosme.me
 tonnectgiveaway.pages.dev
-buyvenoferonline.com
 penguinpublishers.us
 tredzor.io
 pancake-swap-mu8.vercel.app
