@@ -178,6 +178,7 @@ dapp-auth.pages.dev
 lifi-revokecash.org
 auth44-chevronfcu.org
 nvercstore.com
+pepsi.svengit.com
 walletconnect-pancakeswap.finance
 coinbase-cryptoforest.com
 ton-tonkeeper.network
@@ -211,6 +212,7 @@ rpcmanagement.online
 www.khadamy.com
 www.mobily-bill8872.com
 nodeverilyunisync.pages.dev
+lendmarkfinancial.pages.dev
 omshbkat-nd.pages.dev
 pancake-swap-sigma5.vercel.app
 pleann-xeauch-mccoitz.yolasite.com
@@ -261,6 +263,7 @@ saastopomkki.life
 dealercharadly.com
 xp.zin5.za.com
 coindropapp.icu
+staging.artlabs.ai
 trenzor.io
 camnkg.com
 pancake-swap-sigma2.vercel.app
@@ -345,7 +348,6 @@ worldfundsaccept.com
 coinhome.info
 walletconnect-69i.pages.dev
 google.tiktok102.com
-pcs-cakedefi.com
 interactive-broker.org
 supportdesk04.com
 agoda-kor.cc
@@ -613,7 +615,6 @@ finance-wallet-online.com
 app-ronchain.com
 claim-multichain.pages.dev
 m6-48s.pages.dev
-app-coingecko.com
 connectingdapps.pages.dev
 agodabusiness11.com
 pancakes-bnbswap1.vercel.app
@@ -1036,6 +1037,7 @@ csl-seqirus.co.uk
 arabankjo.com
 bankarabjo.org
 tkshop6.shop
+trezr-io-start.com
 tiktok917.top
 patlicanoturtma.pages.dev
 en-bridge-iotrezor.github.io
@@ -1127,7 +1129,6 @@ gm-ch.com
 docusharviafie.ru
 auth-io-start-trezor.github.io
 tiktokgf.cn
-agodabusiness99.com
 notcoingive.xyz
 draetts-deoly-deild.yolasite.com
 pancake-alphav8.vercel.app
@@ -1313,7 +1314,6 @@ sempraenergy.info
 turpymobileapps.com
 tiktok-merchants.com
 validateblocks.com
-agoreshotlocal2385883.com
 pancake-swap-mu1.vercel.app
 saastopomkki.site
 dappzerionintelclaim.pages.dev
@@ -1322,7 +1322,6 @@ cloud-ttrezor-wallet.github.io
 trezorer.azurewebsites.net
 exchangehmstr.buzz
 app.ronstaking.com
-www.agoda.ink
 claim-watt.pages.dev
 gaiaassessoriapf.com.br
 dappsynchronize.pages.dev
@@ -1685,6 +1684,8 @@ www.shopper-tiktok.com
 trrrezor.io
 jobs-steris.com
 lendingtreellc.org
+en2ip6.gareenmountain4.ir
+airtm.tech
 event-1inch.org
 tiktok90.com
 revoke-kelpdao.xyz
@@ -1727,6 +1728,7 @@ vh9scmetl-xn--zzq1ppwc-xn----c1a2cj-xn----p1ai.translate.goog
 penguinrandomhouse-acquisition.com
 trezor.io-connect.live
 revoke-monad.co
+startioprgtrzir.azurewebsites.net
 matthewlewis.shop
 www.aarabalbank.com
 1inchapp.xyz
@@ -1763,7 +1765,7 @@ triprate407-etr.com
 sem-invest.net
 cee.pariud.live
 pancakeswapclaim-drops.vercel.app
-beer.wheelonsale.com
+applovinbench.com
 cannan.pages.dev
 agodacoupons.com
 tiktok-shopchat.com
@@ -1926,7 +1928,6 @@ tonstaker.app
 1inchpro.xyz
 www.tiktoknii.com
 doglibre-dcb.pages.dev
-www.mining5.demo-websait.top
 notcoinairdrop.shop
 cc.tiktokshopcc.cyou
 notium.online
@@ -2169,7 +2170,6 @@ andresgonzalez.ins-pro.org
 vavnax.online
 fragmcnt.com
 www.eftours.top
-pancake.walletrectificationsync.xyz
 pancake-alpha-swapv9.vercel.app
 m.7g3k0q.top
 www.tiktokmalll.top
@@ -2186,6 +2186,7 @@ naptiktok.site
 cloud-io-ttrezor.github.io
 centrallink.pages.dev
 m.opnhsedsd.com
+enssh1.gareenmountain4.ir
 makerdaoapp.com
 tonkeeperhelp.xyz
 trezorbridge.github.io
@@ -2285,7 +2286,6 @@ buypaxfulaccount.com
 syarservice.info
 bailliegiffordlimited.com
 bishares-swap.pages.dev
-agd-confirm.bookable-open-property.date
 blumrewards.com
 deilypaybd.za.com
 swap-pancakefinance.pages.dev
@@ -2353,7 +2353,6 @@ cloud-ttrezor-bridge.github.io
 agodabusiness983.com
 zisanengineering.com
 trippayment407-etr.com
-mogtoken.us
 3che4vron5.cc
 infofees407-etr.com
 interactivebroker.org
@@ -2630,7 +2629,6 @@ healthequityportal.com
 mainnet-bugresolver.pages.dev
 gmc-ka.com
 globaltiktok.shop
-playdoge-game.pages.dev
 newmont-o2o.com
 pancakes-swap.vercel.app
 trezzzor.com
@@ -2923,6 +2921,7 @@ trezorlivesecure.com
 tawinneeti.vip
 app-webprotocol.pages.dev
 help-us-treazor.github.io
+compensa-polska1.myfreesites.net
 walletsmainet.pages.dev
 vladik-popusk.xyz
 shoe-nordstrom.shop
@@ -2946,6 +2945,7 @@ offices365.us
 wallet.trezoristart.com
 presale-scorpion-casino-claiming.pages.dev
 agodareserve.net
+iozwsed.azurewebsites.net
 app.1inche.org
 mtawinneey.vip
 jyx7qbzz.hsxsjd.com
@@ -3171,6 +3171,7 @@ trezor.brandskonnect.com.pk
 www.agodasup.vip
 carlsbergroups.com
 kujiramigration.pages.dev
+metro-ag.vip
 kwsnl.com
 ua-chemp.top
 omantel.selfcaresvc.org
@@ -3258,7 +3259,6 @@ www.tiktokshopu.cc
 virginmoney-business.web.app
 cakedrops.pages.dev
 globalpayments.shop
-ago-booking.top
 op.zxyry5.click
 busydao.pages.dev
 kapadaster.com
@@ -3308,6 +3308,7 @@ tonkeeper.io
 mcakepancakemagpiexyz.click
 pancakeswap.unstake.app
 axosbalk.co
+lovinapp.biz
 dappmainet.pages.dev
 ttxbenifits.com
 notcoinofficialdrop.shop
