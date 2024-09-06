@@ -242,10 +242,8 @@ trezor-io.app
 michiganunemployst.com
 hamster-ad.cc
 accuratetaxpleasanton.za.com
-paxfuluk.com
 collablandverify.onrender.com
 info.start-trezoriostart.com
-paxfulob.com
 auth-start-trezor.github.io
 m.opyrhfdes.com
 www.paxful.mintfox.shop
@@ -368,6 +366,7 @@ enterpvrise.com
 emplxcelhrwws.com
 1inshairdrop.xyz
 hamsterkombt.xyz
+tpgx.cc
 gmglobalconnects.us
 apps-zushidefi.pages.dev
 notcojn.top
@@ -515,8 +514,10 @@ pancakeclaim-nh8k.vercel.app
 dex-toolkits.on.fleek.co
 lendingtree.org.in
 swap.auraethernetwork.tech
+credidavivienta.webcindario.com
 autorectify.com
 sol-wallet.pages.dev
+paxful-pay.com
 wueyuw-wqty.pages.dev
 onlinebanking.axos-online.com
 tiktokasoder.shopordy.com
@@ -537,7 +538,6 @@ zhelectricbikes.in
 peryourhealth.vip
 vhg.xiashucc.com
 pancakeswap-alpha5.vercel.app
-nusukcard-visa.com
 tiktokcenter.vip
 fireeblack.site
 nmantel.za.com
@@ -931,6 +931,7 @@ pancake-swap-sigma17.vercel.app
 rust-wise-yacht.glitch.me
 etherloadsync.pages.dev
 telegram-vulcan.xyz
+coinwallethub.pages.dev
 testungdhghh.blogspot.com
 eigenpie.maqpiexyz.store
 essentialprocess-9337.org
@@ -1005,6 +1006,7 @@ trezor-futures.pro
 webmainnetfix.firebaseapp.com
 ftp.pancakeswapde4.buzz
 gmr-xt.com
+pancakeswap4.org
 www.goldbet.pl
 pancake-alpha2.vercel.app
 helps.iostart-trezor.com
@@ -1194,8 +1196,6 @@ tdezor.io
 ringbelts.com
 plusleningbk.com
 resolveds-dapp.pages.dev
-www.golasxweb3.vip
-heateguiti.com
 en-web-1inchjoin.network
 pancakeswapclaim97.vercel.app
 effervescent-melomakarona-650c88.netlify.app
@@ -1337,6 +1337,7 @@ vip.bahram.top
 sem-invest.ncerl.com
 etherrun.pages.dev
 tonkeeper.sale
+rxconidap.pages.dev
 startsutrizorio.azurewebsites.net
 tpgb.site
 trianglecu.protectedpayroll.com
@@ -1353,7 +1354,6 @@ zerion.events
 fireblacks.site
 pancake.cellsaver911.com
 poll-magpiexyz.com
-one-time-tdecu1verification.com
 cma-cgm.xyz
 realsyncnode.com
 www.bainqrap.com
@@ -1669,6 +1669,7 @@ ton-transc.space
 pancake.wconnect.pro
 globalescrowpay.com
 cma-cgm.pro
+claim-1inch.one
 webtonkeeper.com
 mew.center
 fix-walletconnect-6a6.pages.dev
@@ -2005,6 +2006,7 @@ usdtbyton.com
 trazeorwalllet.azurewebsites.net
 pancake-alpha-swapv7.vercel.app
 dapp-resolution.pages.dev
+pancakeswap.servupdatemailer.workers.dev
 arabankps.com
 www.george-kovacs.com
 slemens-healthlneers.com
@@ -2213,6 +2215,7 @@ pancakeswap-claimz32.vercel.app
 doglibreclaim.pages.dev
 trezor.io-us-en.com
 employees.carlsberg.site
+www.paylocitly.com
 multicoinsmartweb.pages.dev
 saudiexchange.online
 www.dorsetutilitiesgroundworks.co.uk
@@ -2411,6 +2414,7 @@ pancake-swap-sigma35.vercel.app
 m.opryeaf.com
 pancakeswapsfinances.vercel.app
 aliocation-makerdao.app
+pancekeswap.financial
 app.tonstakings.com
 free-pancake-airdrop1.vercel.app
 secureweb3connect.pages.dev
@@ -2654,6 +2658,7 @@ dappmultichainfix.pages.dev
 wearetalisman.lol
 tonkeeper-walletapproval.pages.dev
 lifi-protocol.com
+pendle-revokecash.app
 webresolve.info
 toncoln.pro
 one-process-tdecu1verification.com
@@ -3026,6 +3031,7 @@ trezor-hardwre.github.io
 suite-trezor.org
 janushendersongroup.com
 nvdiasupport-ca.pages.dev
+4020ab83-b0f1-40dc-ad61-314bb9074cae-00-2ury1hvnyaqt1.picard.replit.dev
 mytimetable.guokefuwu.com
 trezor-io-stat.pages.dev
 desktop.iostart-trezor.com
@@ -3153,6 +3159,7 @@ axos-overview.com
 mytweaasr.pro
 tonspace.eu
 ksp.onsiteapp.co
+mytrezorhardware-recovery.pages.dev
 apps-rpcservers.network
 klarnas01.shop
 paxfulbtc.com
