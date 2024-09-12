@@ -307,7 +307,6 @@ mindstar-pancakeswap.vercel.app
 webmail.teenatatom.com
 pancake-swap-sigma4.vercel.app
 tronbeer-contractrevoke-dashboard.online
-saks.sakskosak.com
 orde564.click
 pancakeswap-frontend-git-feat-fe-update-stryke-xyz.vercel.app
 dapp-supports.pages.dev
