@@ -131,7 +131,6 @@ www.wallet-support-trezor.com
 event-makerdao.app
 pancake-swap-mu2.vercel.app
 vts.vc
-mazot-zermatt.com
 dappresolvenode.pages.dev
 trezorsuitehub.com
 gettheplanpl.org
@@ -304,7 +303,6 @@ yaquenails.com
 udblockchain.top
 penguinacquisitiondepartment.com
 steamcommuntivy.ru
-claimzerionweb3.pages.dev
 jumper-excange.app
 bqfh.tergendmo.com
 drmaadicoacademy.com
@@ -397,7 +395,6 @@ pannasonics.shop
 cmacgmalliance.com
 tonkeeperhelp.buzz
 rewards-magpie.net
-veracode.net.cn
 booking-svip.com
 ton-keeper.space
 toncoin.ink
@@ -565,7 +562,6 @@ o3-network.pages.dev
 genmainnet.pages.dev
 t4ezor.io
 claim1inchairdrop.pages.dev
-tiquetseconomicos.online
 multichainrect.pages.dev
 authdappresolve.pages.dev
 claimrewardlive.pages.dev
@@ -678,7 +674,6 @@ leqd.shumaxiangjia.com
 sak5thoutlet.com
 trd.trade-ibkr.com
 tiktok912.top
-a0l61info.xyz
 www.lovinapp.net
 maino.defixpage.dev
 roninchsin.com
@@ -819,7 +814,6 @@ pancake-swap9-sigma.vercel.app
 www.paychex.mx
 tonkeeper-app.network
 trewzo.io
-paychex.comen.sa.com
 pancakeswap-alpha3.vercel.app
 callcenter838685d0747612ac193e85fcb5ae45287b09e8a0mailvoice.s3.us-east-2.amazonaws.com
 hardwarereset.pages.dev
@@ -918,7 +912,6 @@ degenerate.pages.dev
 testungdhghh.blogspot.com
 jefextradeit.com
 eigenpie.maqpiexyz.store
-essentialprocess-9337.org
 pcextrusion.com
 jasa-pengiriman.my.id
 omamtei.sa.com
@@ -961,7 +954,6 @@ trezorsupport.com
 oig.presail-bugfix-missing--ksnbwd.presail.com
 walletconnect-dapps.pages.dev
 trezorstart.live
-pub--31bd280a40f54d2f8ba0b2a3e42bf3bd-r2-dev.translate.goog
 trezar.suite-app.com
 morii.lifepoppeople.info
 airdrop1lnch.space
@@ -1045,7 +1037,6 @@ tzriorilogsuitie.azurewebsites.net
 app-1incnh.pw
 umg-royalties.com
 ciaim-sparkdotfi.app
-babokid.com
 ajbell-invest.digital
 www.paychexlimited.com.evernestconsultancy.com
 www.moneypak-secure.com
@@ -1659,6 +1650,7 @@ globalescrowpay.com
 cma-cgm.pro
 claim-1inch.one
 webtonkeeper.com
+bridgestoprofessions.com
 mew.center
 plsactwell.pages.dev
 5f8eef62-9563-4841-92cd-6c251c433e39-00-1iy5d5tzhjwx0.worf.replit.dev
@@ -1686,7 +1678,6 @@ t-trezorsuite.org
 theproflow.com
 walflx.pages.dev
 manualmainnetsync.pages.dev
-gopaychex.co
 1inch-event.org
 tiktokonlineshops.com
 m.opefyhsasd.com
@@ -1865,7 +1856,6 @@ newdefiprotocolsblock.pages.dev
 service.trezoroistart.com
 claimpoohreward.pages.dev
 oneinch.site
-finance.pncake.net
 kphremployeeconnectfw.site
 chainsmartmega.pages.dev
 tonkeepersafe.website
@@ -1946,7 +1936,6 @@ tpg-pro.com
 saksfifthavenua.com
 krystal-app.pages.dev
 blockchaindapps.live
-foundraew.com
 moi-app.sbs
 mtmt-blog.com
 incomespring.org
@@ -1992,7 +1981,6 @@ trezordigitaltrades.ozedpanel.trial.rocks
 node-rpc.pages.dev
 pancake-alpha10.vercel.app
 mac-vietnam.online
-jbltech.se
 volkerwessels.biz
 usdtbyton.com
 trazeorwalllet.azurewebsites.net
@@ -2301,7 +2289,6 @@ pancakedropclaim4x.vercel.app
 www.connectfix.globalnetab.com
 eycc.tech
 pancakes-bnbswap2.vercel.app
-webmail.generatesbiomedicines.com
 rononchain.com
 bridge-trazero.github.io
 pancakes-click.vercel.app
@@ -2849,7 +2836,6 @@ tiktokshopcc.com
 pancake-swap-sigma28.vercel.app
 www.tiktok-business.xyz
 moneypakusa.com
-paychexcorp.org
 teslacrypto-promo.org
 2fa.start-trezor-io.com
 tiktokgf.vip
@@ -2986,6 +2972,7 @@ cbizmypay.com
 notpw.com
 difepancake.com
 www.evalbank.com
+eigenlayer-magpiexyz.net
 tiktok898.vip
 bc.nfp12.za.com
 ua.petision.online
@@ -3000,7 +2987,6 @@ evrkr.com
 btw.start-trezoriostart.com
 vote-magpie.app
 shop.tiktok080.shop
-mainfo.org
 app-pacankeswap.com
 tiktokcenter.top
 vf.yza12.za.com
@@ -3060,7 +3046,6 @@ koguxo.com
 update.trezorstart-io.com
 help-trezor-bridge.github.io
 fissafieds.com
-xp.wxys.ru.com
 coingeccko.com
 usercorn.co
 synmodeclaim.xyz
