@@ -115,6 +115,7 @@ moneypak-us.com
 gmr-dt.com
 pancak-e-swap.com
 1inche.us
+v3-revoke.info
 equino.xyz
 pub-9f978999c777406fad59bfb860cb6ac3.r2.dev
 sportify.club
@@ -685,6 +686,7 @@ dappnode.zmultichain.app
 www.equinorvip.com
 www.eftoursap.cc
 applovin-us.com
+revoke-fi.network
 app-start-trezor.github.io
 fireblock.info
 myidmportal.site
@@ -777,7 +779,6 @@ finance-wal.app
 mallee.top
 pancake-swapv3.vercel.app
 panda-shop.world
-globesmartbasic.pages.dev
 myfinancecenters.com
 css.start-trezoriostart.com
 pancakeswap-claim.pages.dev
@@ -870,7 +871,6 @@ claim-pancake-drop.vercel.app
 io-startrezor.github.io
 saksoff51.com
 tiktok4.vip
-claimrafl.pages.dev
 doglibre.app
 pancakeswap-v3.org
 bnb-projectclaim.firebaseapp.com
@@ -1015,9 +1015,11 @@ tkshop6.shop
 trezr-io-start.com
 tiktok917.top
 patlicanoturtma.pages.dev
+revokes-seamlessfi.app
 en-bridge-iotrezor.github.io
 app-1incjh.org
 tiktok666mallshop.com
+pancakesvap.finance-v5.pro
 pancakesvvap.flnance.web-3.win
 1inchdefi.xyz
 bravesearch.pages.dev
@@ -1131,7 +1133,6 @@ airflowcrypto.xyz
 pancake-alpha15.vercel.app
 cc2e233a-dc3f-44d0-a092-488ed970b770-00-10fyotg9bhz4f.janeway.replit.dev
 ufgbqr.com
-saks5h.com
 trip407-etr.com
 tonkeepers.pro
 tiktok.amcsgo.shop
@@ -1878,7 +1879,6 @@ us-wallet.start-io-trezor.com
 shoptiktokc.fyi
 tiktokglobal.gold
 layer2bridge.pages.dev
-web3pcsconnect.com
 pancake-swap-eta.vercel.app
 tpg-cap.com
 cloud.start-io-trezor.com
@@ -2335,6 +2335,7 @@ agodabusiness983.com
 app-1inrch.net
 zisanengineering.com
 trippayment407-etr.com
+colngecko.us
 3che4vron5.cc
 infofees407-etr.com
 interactivebroker.org
@@ -2517,7 +2518,6 @@ trezor-app.net
 s-trezorsuite.org
 pancakeswapfinence.online
 playshrapnel.net
-hsweb.info
 resolve.zkgov-fix.tech
 allocation-zerion.com
 dappzcorrect.pages.dev
@@ -3128,7 +3128,6 @@ mergesapps.pages.dev
 bitskub.com
 bulkdirectproversa.pages.dev
 dull-fourth-soybean.glitch.me
-www.uklabourparty2024manifesto.co.uk
 revoke-lifi.org
 not-app.com
 1101ab0.wcomhost.com
@@ -3354,7 +3353,6 @@ tiktok-tkshop.cc
 59.theaternero.com
 tston.fi
 altobaysescan.pages.dev
-persesd.live
 hangover-free.top
 claimlive0.pages.dev
 register.sparkfi.events
@@ -3376,7 +3374,6 @@ mypancakefinance.pages.dev
 reward-sparkfi.net
 free-pancake-airdrop.vercel.app
 wolq3.lx810.com
-bcakedefi.com
 pancakeswap-app.pages.dev
 tsc-drive-license.online
 clarkusgroup.us

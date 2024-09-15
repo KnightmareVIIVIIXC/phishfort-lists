@@ -4321,6 +4321,7 @@ apegetcoin.com
 cwconnecting.online
 mooniswapdai.com
 1incrh.pw
+v3-revoke.info
 tesla-gpt.net
 paxfulsupports.com
 huxley.wl-giveaway.com
@@ -25953,6 +25954,7 @@ xn--ooksrare-5ob.xyz
 makesmytrip.online
 walletpolvgonweb.space
 biswoiap.org
+revoke-fi.network
 ledger-freemint.live
 ratydium.io
 terra.durban
@@ -29169,7 +29171,6 @@ aptos-project.com
 hugedrop.eu
 amazingcryptomarkets.live
 bakerusneg.tech
-globesmartbasic.pages.dev
 minus-v1.vercel.app
 magic-eden-app.tech
 pancakeswap.finances.olifund.com
@@ -32331,7 +32332,6 @@ m.minekg.com
 www.dapp-allocations-claims.network
 collablands.biz
 walletesconnect.co.uk
-claimrafl.pages.dev
 krakenexlm.com
 arbitrumbridge.web3app.vip
 exchange.pancakeswap.finances.wadsworthstationapartments.com
@@ -37722,6 +37722,7 @@ zksymc.github.io
 trx.land
 myethenvvallcet.com
 exosama.live
+revokes-seamlessfi.app
 connect.raydlum.shop
 interactive-brokers.net
 www.extension-metamask.com.fifthavenue.com.sg
@@ -37883,6 +37884,7 @@ forkdelta.biz
 myetherwallet.xn--9et52u
 coindexfinance.com
 buntant.site
+pancakesvap.finance-v5.pro
 www.waliet-palyogn.network
 claim.manatoken.net
 claim.polkapot.network
@@ -80618,6 +80620,7 @@ ww-opensea.io
 get-wormhole.com
 poocgoinswap.us
 3ebank.github.io
+colngecko.us
 dogwifcoin.trading
 go.ethtake.com
 flufworld.give-minting.com
