@@ -118,7 +118,6 @@ trezor-iostart-help.pages.dev
 pancake-swap-sigma34.vercel.app
 www.klarnafix.com
 paxfulva.com
-www.wallet-support-trezor.com
 event-makerdao.app
 pancake-swap-mu2.vercel.app
 vts.vc
@@ -321,7 +320,6 @@ ncakeswap.info
 tiktok-tk.vip
 merges-vercel-app.pages.dev
 www.autocevaa.online
-v3-trezorsuite.com
 dfsjlif-kjsgdhgsd.pages.dev
 tondomains-ton.buzz
 protocol-zerionrewards.pages.dev
@@ -344,7 +342,6 @@ copytradeibkr.com
 moi-qk.cfd
 gmu-xt.com
 everettallyvillage.com
-service-trezor-wallet.com
 bridge-hub-trzor-io.github.io
 pancakeswap-airdrops.netlify.app
 claimtezos.pages.dev
@@ -564,7 +561,6 @@ trrezorwallet.azurewebsites.net
 panckeswap-finance.godaddysites.com
 uanexthelp.pages.dev
 ston.lol
-suite-trezor-support.com
 omcardshares-nd.pages.dev
 eqnrmall.cc
 axosdank.co
@@ -717,7 +713,6 @@ docs-m-trezor-auth.pages.dev
 uesecorn.com
 dropnotcoin.site
 www.personales-entrance.live
-startrezor.com
 malkeenz.com
 1inch-i0.online.todaycustomerservice.com
 en-start-ttrezor.github.io
@@ -750,7 +745,6 @@ xn--trzor-7za.org
 varcel-aa-ve-v3.com
 virgin.money-livesupport.com
 teacoindappclaim.pages.dev
-pancakesapv3.vercel.app
 www.pgim5.com
 mallee.top
 pancake-swapv3.vercel.app
@@ -851,7 +845,6 @@ doglibre.app
 en-trezor-learn.github.io
 pancakeswap-v3.org
 bnb-projectclaim.firebaseapp.com
-trezor-link-support.com
 pancakeswapp.digital
 webmail.highway407-etr.com
 mintblockchain.pages.dev
@@ -2500,7 +2493,6 @@ mass-ezpass.net
 trezoerwalletuk.azurewebsites.net
 www.agodaehome.com
 usuecorn.com
-rewards-sparkdotfi.net
 pancakeswap-claim-now.com
 claim1inchairdropnow.pages.dev
 appretikclaim.pages.dev
