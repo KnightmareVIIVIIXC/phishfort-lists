@@ -980,7 +980,6 @@ mail.smartordiversatile.com
 defi-coinfix.com
 clipfinance.org
 tre-zor.site
-gmt-ex.com
 pancakeclaim-drop-vcp3.vercel.app
 usethwallet.com
 1inchairdrop.top
@@ -1431,7 +1430,6 @@ tiktok.businessversion.vip
 erzorsu1io.azurewebsites.net
 login.trezor.ardee.tech
 bitskub.me
-www.arbas.info
 pancake-swap-sigma04.vercel.app
 metlifepharma.com
 pancake-swap-sigma33.vercel.app
@@ -1669,6 +1667,7 @@ paxfulonlineverificationn.vercel.app
 treazorsuite.azurewebsites.net
 1inchcard.xyz
 nfprompt-claim.pages.dev
+dioneprotocol-snapshot.vercel.app
 stepnactivationn.pages.dev
 jrndenoticas.com
 paxful.vemmowire.com
