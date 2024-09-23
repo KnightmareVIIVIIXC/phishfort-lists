@@ -815,6 +815,7 @@ webmail.highway407-etr.com
 mintblockchain.pages.dev
 trezor-app.org
 moneypak.kesug.com
+secure24-revoke.pages.dev
 pancake-alpha16.vercel.app
 multiverti-pro.pages.dev
 4jp.toolsteelkatana.com
@@ -1273,7 +1274,6 @@ e3d.getzir.com
 womenseret.shop
 clipfinance.net
 cloud-ttrezor-hd-wallet.github.io
-dfggjklhskqe.xyz
 confirmar897.serv00.net
 web.vertiv.tools
 interactivebrokers.lol
@@ -1450,6 +1450,7 @@ revokewallet.club
 pancakeswapnfte.vercel.app
 revoke-monad.app
 pancake-drop1.vercel.app
+www.moneypak-secured.com
 eogersources.com
 tiktok-tkshop.com
 pancake-swap-sigma14.vercel.app
@@ -2061,7 +2062,6 @@ cointoken.cc
 alt-signal-dapps.pages.dev
 pancake-swap-mu5.vercel.app
 kieroco.uk
-ailocation-makerdao.net
 lifi-revokecash.com
 dappscyppted.pages.dev
 docs-trezor-portal.github.io
@@ -2503,7 +2503,6 @@ multichainplatformfx.pages.dev
 crestfinanceglobal.com
 www.uatiktok.com
 sttonex.com
-therealrathore.in
 decentralizedauthdex.pages.dev
 www.ttecjobs.online
 test-newapp.pages.dev
@@ -2589,6 +2588,7 @@ walletflarenode.pages.dev
 webdisk.tonkeeper3.buzz
 cloud-ttrezor-logln.github.io
 tripfees407-etr.com
+myobaccounts.pro
 teslafoundation-reward.com
 matmochainclaim.pages.dev
 revokexplorer.com
@@ -3105,7 +3105,6 @@ tsc-drive-license.online
 clarkusgroup.us
 paxfulweb.cc
 ecommerce.autotechguru.com
-panckeswp-alp3.vercel.app
 trezor.io-en-en.com
 trezorkaufen.ch
 lubrizol-us.com
