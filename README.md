@@ -1,5 +1,3 @@
-![PhishFort Logo](https://static.phishfort.com/general/phishfort_logo.png)
-
 # PhishFort Counter-Phishing Lists
 
 > Now protecting over 402 million monthly active users across the globe! 
