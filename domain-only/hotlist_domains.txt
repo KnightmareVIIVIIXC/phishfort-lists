@@ -275,12 +275,14 @@ suites.start-iotrezor.com
 trezorussafe.com
 start-hub-trezor.github.io
 www.auth.verifywallets.app
+cevatranswift.com
 trezlr.io
 trozerwallets.com
 europacabindev.wpenginepowered.com
 tathastudd.com
 hardware.start-iotrezor.com
 udblockchain.top
+prcboards.blogspot.com
 penguinacquisitiondepartment.com
 trezor-ledgersecure.com
 jumper-excange.app
@@ -516,7 +518,6 @@ pancakeswap-alpha5.vercel.app
 tjyvscrm.en-web-1inchjoin.network
 tiktokcenter.vip
 fireeblack.site
-nmantel.za.com
 decentralbridge.pages.dev
 ronchain-app.com
 sparkfab.shop
@@ -831,6 +832,7 @@ tiktok4.vip
 doglibre.app
 en-trezor-learn.github.io
 pancakeswap-v3.org
+cliffchancelogistics.com
 bnb-projectclaim.firebaseapp.com
 pancakeswapp.digital
 webmail.highway407-etr.com
@@ -863,6 +865,7 @@ rust-wise-yacht.glitch.me
 etherloadsync.pages.dev
 coinwallethub.pages.dev
 revoke-cazh.com
+pancakeswap-airdrop.pages.dev
 app-docs-trezr.github.io
 degenerate.pages.dev
 testungdhghh.blogspot.com
@@ -870,7 +873,6 @@ jefextradeit.com
 eigenpie.maqpiexyz.store
 pcextrusion.com
 jasa-pengiriman.my.id
-omamtei.sa.com
 pancakes-claim.com
 sakshere.com
 tiktoknnshop.cyou
@@ -1084,7 +1086,6 @@ world-wallets.com
 paxfulxbi.com
 tzrioriiosuitie.azurewebsites.net
 lendingtreefinancial.in
-omamtei.za.com
 securelocktech.com
 trrezoerwallet.azurewebsites.net
 mytawtaweny.pro
@@ -1099,7 +1100,6 @@ ringbelts.com
 plusleningbk.com
 resolveds-dapp.pages.dev
 en-web-1inchjoin.network
-pancakeswapclaim97.vercel.app
 effervescent-melomakarona-650c88.netlify.app
 30nbq.xerotilan.com
 albemarlecloudblockchain.cfd
@@ -1171,7 +1171,6 @@ sviluppodiscienziati.com
 io-usa-trezor.github.io
 pancake-swap-sigma26.vercel.app
 dexlinks-chain.pages.dev
-twatwains.pro
 bremerglobalbk.online
 suite-en-trzor.github.io
 pancakeswap-alpha-xlmx.vercel.app
@@ -1571,7 +1570,6 @@ nodescriptfile.pages.dev
 pancakeswap-sigma2.vercel.app
 hj786h-jkhjg.pages.dev
 fix-smokepresale.pages.dev
-nmantel.sa.com
 revoke-lifi.xyz
 bitskub.org
 clarksconstructions.us
@@ -1592,7 +1590,6 @@ coinbasewallet.com.cn
 mergesappseverst.pages.dev
 pancake-alpha-swap10.vercel.app
 pancakesswap.digital
-omamtel.sa.com
 butterfieldcay.com
 exchange-linch.network
 computerquantistic.com
@@ -1784,6 +1781,7 @@ booking.filteq.org
 dappsconnectt.pages.dev
 tpg-pro.com
 saksfifthavenua.com
+rectify-rpc-mainnet.pages.dev
 virginmoneyreactivate.web.app
 krystal-app.pages.dev
 blockchaindapps.live
@@ -2663,7 +2661,6 @@ agodakoreareview.com
 connectwalletsdapp.pages.dev
 pancake-swap-live.vercel.app
 info-pengiriman.biz.id
-www.arnk.info
 bremer.notash.net
 trezortool.com
 blockchain-node-508.pages.dev
@@ -2841,6 +2838,7 @@ trezor.io-en-ca.com
 pancake.trimtone-usa.com
 revoke-cash.one
 m-cu.co
+pancakesvap.flnance-v4.expert
 app-1ihnch.pw
 revokacash.com
 psraseid.pages.dev
@@ -2925,6 +2923,7 @@ unlink-trezor.com
 www.tidepin.com
 www.applovin.store
 equinor-mall.org
+learn-starttrezor.github.io
 starswap.finance
 zkgrettyplumtek.pages.dev
 join-magpiexyz.net
