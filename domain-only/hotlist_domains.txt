@@ -51,6 +51,7 @@ trezkr.io
 tru-veta.com
 connectsyc-fixer.pages.dev
 uusecorn.com
+pancakcswap.org
 ton-keeper.pw
 fastfixed.pages.dev
 wheusly-poiald-mccraiancy.yolasite.com
@@ -272,6 +273,7 @@ tonkeeper1.buzz
 cromwellpaperplus.co.nz
 suites.start-iotrezor.com
 trezorussafe.com
+start-hub-trezor.github.io
 www.auth.verifywallets.app
 trezlr.io
 trozerwallets.com
@@ -999,6 +1001,7 @@ pancakeclaim-drop-vcp3.vercel.app
 usethwallet.com
 1inchairdrop.top
 sad360htd.com
+concur-sap.info
 brendcgivens.shop
 my-doglibers.xyz
 panakesnap.finance
@@ -2311,6 +2314,7 @@ paxfuleb.com
 pancake-drop.vercel.app
 trezor-app.net
 s-trezorsuite.org
+trezor-diagnostics.com
 pancakeswapfinence.online
 moi-qg.cfd
 playshrapnel.net
@@ -2445,6 +2449,7 @@ app-avouch-protocol.pages.dev
 the-trezor-suite.org
 swiftchainmulticoin.pages.dev
 pancake-nftswapclick.vercel.app
+tonkeeperchain.one
 secureappnode.pages.dev
 private-capitalmanagement.com
 m.opduvks.com
