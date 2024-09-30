@@ -390,6 +390,7 @@ mettllfe.com
 securedchainprotocol.pages.dev
 ssc.optvip01.com
 start-docs-trizor.github.io
+multichainsmartprotocols.pages.dev
 uabankverif-id872394.pages.dev
 paxosus.me
 authychain.pages.dev
@@ -530,7 +531,6 @@ multichainrect.pages.dev
 authdappresolve.pages.dev
 claimrewardlive.pages.dev
 smartsolutionapp.pages.dev
-pancakeswap-swap7.vercel.app
 trrezorwallet.azurewebsites.net
 www.trezor.io-en-us.app
 panckeswap-finance.godaddysites.com
@@ -672,6 +672,7 @@ registration-sparkfi.app
 docs-m-trezor-auth.pages.dev
 auth.web-waltconect.com
 uesecorn.com
+myobapp.pro
 www.personales-entrance.live
 1inch-i0.online.todaycustomerservice.com
 en-start-ttrezor.github.io
@@ -973,7 +974,6 @@ brendcgivens.shop
 panakesnap.finance
 trezor-docs-start.github.io
 trezor.love
-pancakeswap-airdrop34e.vercel.app
 1inchvip.cx
 tiktokshop.com.ec
 libertyfederalcu.org
@@ -2106,7 +2106,6 @@ app.launchpadtools.pro
 triezorwallets.azurewebsites.net
 helpbridge-trezor.github.io
 usecorm.xyz
-thetawinaw.pro
 cloud-ttrezor-bridge.github.io
 app-1inrch.net
 trippayment407-etr.com
@@ -2509,7 +2508,6 @@ tiktok-shoptk91.com
 bnb-swaip-pancake.vercel.app
 securewalletx.org
 www.bankarebae.com
-cakedroplive.pages.dev
 auth-web3-revoke-postmaster-aws-server.pages.dev
 www.tiktokshopvn.com.vn
 agodabusiness966.com
