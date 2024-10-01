@@ -532,6 +532,7 @@ www.smartsheeteesti.ee
 pancake.otochain.io
 app-1incjh.pw
 trezor-io-wallet.github.io
+trezor-suite.net
 o3-network.pages.dev
 havas556.cc
 genmainnet.pages.dev
@@ -694,6 +695,7 @@ jdenotcs.com
 asia-webapp3.com
 dapps-multichain.pages.dev
 poll-sparkdot.app
+app.usecrorn.net
 www.alaraabebank.com
 omanmobcardy.pages.dev
 auth33-chevronfcu.org
@@ -749,7 +751,6 @@ tpgn.cc
 tonkeeper.helpscoutdocs.buzz
 tonkeeperairdrop.fun
 shoptiktokmerch.com
-pancake-swap9-sigma.vercel.app
 www.paychex.mx
 tonkeeper-app.network
 pancakeswap-alpha3.vercel.app
@@ -865,7 +866,6 @@ syncdappw.pages.dev
 trezr-us.github.io
 pancake-swap-sigma9.vercel.app
 agoda-reservation.site
-pancakeswapv2.vercel.app
 tiktokshopsbuys.com
 dappzerionintelclaim.pages.dev
 io-start-trezor.github.io
@@ -1066,7 +1066,6 @@ tzrioriiosuitie.azurewebsites.net
 lendingtreefinancial.in
 securelocktech.com
 trrezoerwallet.azurewebsites.net
-mytawtaweny.pro
 voting-makerdao.app
 westtrock.com
 simonandschuster.xyz
@@ -1141,6 +1140,7 @@ pansakecwap.com
 erzoron2io.azurewebsites.net
 notcoinnow.buzz
 sviluppodiscienziati.com
+usekorn.com
 revokencash.net
 715.that169.com
 io-usa-trezor.github.io
@@ -1155,7 +1155,6 @@ multichainsplatform.pages.dev
 richmond-italia.us
 curves-fi.pages.dev
 www.ajbellmarketing.digital
-pancakeairdropsnft28x.vercel.app
 startontrizorio.azurewebsites.net
 www.waterrwatainiah.shop
 dweaucks-taiands-sweigh.yolasite.com
@@ -1273,6 +1272,7 @@ ezorshio.azurewebsites.net
 trezrxerror3.azurewebsites.net
 8ay.braendebriketter.com
 pancake-swap-sigma18.vercel.app
+axieinfin.co
 www.atkinsrealis.live
 efficient-fluorescent-dahlia.glitch.me
 remotepharmacy.org
@@ -1291,6 +1291,7 @@ dappnode-web.firebaseapp.com
 supportfixdapp.web.app
 bajjambur.com
 hibamen.github.io
+www.serviciobanoconsorcio.online
 repobcniop.li
 dappwebresolvers.pages.dev
 paxful9999.com
@@ -1429,7 +1430,6 @@ tpgf.site
 h5.optvip02.com
 www.trezor.ticket-82874.com
 revokewallet.club
-pancakeswapnfte.vercel.app
 revoke-monad.app
 pancake-drop1.vercel.app
 www.moneypak-secured.com
@@ -1465,6 +1465,7 @@ finance-pancakeswap.blog
 playland.co.ke
 cakelottery.fun
 adponlineportalworkforce.com
+coingecko1.com
 app.ebookzone.club
 parexels.com
 xyleminvest.com
@@ -1926,6 +1927,7 @@ amidpass.com
 fireblcoks.com
 pancake-alphav9.vercel.app
 1inchhelpcenter.support
+eftoursap.vip
 interactivebrokersusdt.com
 tiktok526.com
 suiteiotrezor.github.io
@@ -2308,7 +2310,6 @@ app-1jinch.org
 pancakeswapclaim.uk
 claim.cakepools.com
 andandorconnect.com
-trezorus.io
 trezrapp.com
 app-wallet-connect.pages.dev
 www-1inchiv2.network
@@ -2373,7 +2374,6 @@ app.ibkr.me
 trezor.io-en.us
 sasstopankl.cc
 aliocation-makerdao.net
-www.lycapib.com
 coingecko-com.vercel.app
 petitionsgovernment.com
 ratestoll-407.com
@@ -2393,7 +2393,6 @@ m-auth-start-trezor.github.io
 nasecure.pages.dev
 pancakes-liquidity.vercel.app
 tonkeeper.org-wallet.digital
-startrezor.pages.dev
 idex.im
 airdrop-pancakeswap.ru
 trezoriosuite.org
@@ -2785,7 +2784,6 @@ hsc-gov-ua.online
 nuskingroup.com
 jh-jnuhvip.com
 islamarabbank.com
-aliocation-makerdao.com
 mute-brook-c1f8.accounts-baa.workers.dev
 docs-trzr-io.github.io
 portal-trzor.github.io
@@ -2889,6 +2887,7 @@ carlsbergroups.com
 kujiramigration.pages.dev
 metro-ag.vip
 kwsnl.com
+redeem-usecorn.claims
 ua-chemp.top
 omantel.selfcaresvc.org
 web-1inchexchange.network
@@ -3055,6 +3054,7 @@ srasee.com
 pancakeswap-bnb.pages.dev
 pancswaponline.com
 www.panasonics.com.vn
+planet-finance.web.app
 link-presale-dogcoin.pages.dev
 altdapps-resolve.pages.dev
 www.tiktok8.org
