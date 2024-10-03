@@ -47,6 +47,7 @@ ua-president.petikion.online
 tru-veta.com
 connectsyc-fixer.pages.dev
 uusecorn.com
+updatedsetting.com
 pancakcswap.org
 ton-keeper.pw
 pinkdrop.pages.dev
@@ -480,6 +481,7 @@ zksync.swapcake.finance
 learn-cdn-trezor.pages.dev
 overview-trzor.github.io
 feroenergy.online
+soharinternational.website
 tonkeepare.com
 www.tiktok7233.com
 526a4b96-eb88-45cb-bc0b-4466f31cf655-00-2agr08wh8k231.kirk.replit.dev
@@ -499,6 +501,7 @@ blur-airdrops-claim-now.vercel.app
 schoolsfirst.support
 paxful-pay.com
 wueyuw-wqty.pages.dev
+mycwallet.pages.dev
 trezori.info
 treezor-made.github.io
 io-trezore-start.pages.dev
@@ -986,6 +989,7 @@ mail.smartordiversatile.com
 66a271c463131c5719b81698--steady-gingersnap-d68051.netlify.app
 defi-coinfix.com
 pancakesvvap.finance-app-v5.report
+universepaye.com
 tre-zor.site
 pancakeclaim-drop-vcp3.vercel.app
 usethwallet.com
@@ -1244,6 +1248,7 @@ omtel.selfcare.sa.com
 1inchmin.xyz
 debug-chain.pages.dev
 mypepsico.me
+payxpayl.vercel.app
 pancakeswap-alpha10.vercel.app
 siemens-energyuae.com
 resolveprotocol.pages.dev
@@ -1596,6 +1601,7 @@ tpgg.club
 claim-moonbag.pages.dev
 app-1linclh.pw
 triprate407-etr.com
+wiiretransfer.com
 cee.pariud.live
 applovinbench.com
 cannan.pages.dev
@@ -1721,7 +1727,6 @@ layer2bridge.pages.dev
 cpanel.highway407-etr.com
 tpg-cap.com
 cloud.start-io-trezor.com
-globalbusines.shop
 onetrustjobs.work
 tzdigitaltrade.com
 www.sn.opmalin.online
@@ -2086,6 +2091,7 @@ mlpglobal-invtrade.com
 iifefitness.com
 walletconnects.vercel.app
 uniport.help
+trezorlive.com
 probable-pancake-one.vercel.app
 opyeuytd.com
 malleeee.cc
@@ -2203,6 +2209,7 @@ secureweb3connect.pages.dev
 basicspaceappsmart.pages.dev
 pancake-swap-sigma11.vercel.app
 adp-usdt.com
+pancake-swipe3.vercel.app
 thearnonyco.com
 www.igadvocacia.com
 tpgh.me
@@ -2956,6 +2963,7 @@ arabankjo.net
 bitskub.ink
 secure-app-trezor.github.io
 usescorn.com
+trezor.io-en-us.cloud
 tcmcrcblcss.shop
 bankarabe.com
 encryptedcentri.pages.dev
@@ -3011,7 +3019,6 @@ dapp-bridge.pages.dev
 mymicheganst.com
 casinovlad.com
 app.renzoprotocrol.com
-trezorlive.com
 pancakeswaps.icu
 www.butterfieldonline.hejzing.ba
 www.klarna-infos-zur-erstattung.xyz
