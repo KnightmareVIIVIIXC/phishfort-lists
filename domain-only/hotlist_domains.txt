@@ -91,7 +91,6 @@ tonkeeper.not-coin.tech
 auth-io-trezor.github.io
 pancakestart.pages.dev
 wallerttrestoremeta.com
-ofj.scuola2000.com
 www.vipidex.top
 kahraba.efaa123.online
 aerodlrome.biz
@@ -144,6 +143,7 @@ protocolfix.pages.dev
 tiktokshop.com.co
 aurodep.pages.dev
 wallet-ton-keeper.com
+bancdaviplata1.vastserve.com
 claim-pancake-drop2.vercel.app
 erzoron1io.azurewebsites.net
 invity.co.uk
@@ -208,7 +208,6 @@ omshbkat-nd.pages.dev
 pancake-swap-sigma5.vercel.app
 lezor3021sxes.azurewebsites.net
 brushorders.top
-tollwebmail518ny.com
 cmacgm-france.com
 resolve-dappx.pages.dev
 magpiexyz.unstake.app
@@ -231,7 +230,6 @@ m.opyrhfdes.com
 www.paxful.mintfox.shop
 moi-opl.cfd
 contourdeli.com
-nytoll585.com
 malleee.top
 tonkeeperusernames.com
 er.zxif6.ru.com
@@ -381,7 +379,6 @@ uhchealthplans.org
 gmo-ptr.com
 off5thsaks.shop
 enkypt.live
-kpjteam-web3defi.com
 pancake-alphav4.vercel.app
 threerootsgarden.com
 pencakeswap.financial
@@ -759,6 +756,7 @@ dappsintegration-rectify.pages.dev
 claimegodreward.pages.dev
 dappintegrate.pages.dev
 tpgn.cc
+wallet.connect-claim.app
 tonkeeper.helpscoutdocs.buzz
 tonkeeperairdrop.fun
 shoptiktokmerch.com
@@ -1006,6 +1004,7 @@ trezor-docs-start.github.io
 trezor.love
 smartsafepay.com
 1inchvip.cx
+ofj.scuola2000.com
 tiktokshop.com.ec
 libertyfederalcu.org
 trezor-firmwareapp-node.com
@@ -1294,6 +1293,7 @@ efficient-fluorescent-dahlia.glitch.me
 remotepharmacy.org
 1incjh-oi.org
 sainsburyswork.xyz
+portal-token.pages.dev
 wwwusecorn.com
 pancake-swap-sigma06.vercel.app
 faq-trezor-wallet.pages.dev
@@ -1710,6 +1710,7 @@ jumper-lf7408jump.pages.dev
 tonkeeperwalle.com
 websites.walltscheck.shop
 dapp-c.pages.dev
+blockdag-coinbase.com
 scfhs.tech
 www.equinor-vip.com
 pancake-swap-sigma3.vercel.app
@@ -1789,6 +1790,7 @@ lovinapp.club
 harmanerkardonstore.shop
 register-dioneprotocol.pages.dev
 axieinfin.xyz
+revoke-casln.cam
 trezzorewlleet.azurewebsites.net
 metroinvestmentcapital.com
 saastopomkki.world
@@ -1934,7 +1936,6 @@ assitcapital.com
 designatedconnect.pages.dev
 muzopay.com
 amidpass.com
-fireblcoks.com
 pancake-alphav9.vercel.app
 1inchhelpcenter.support
 eftoursap.vip
@@ -2018,7 +2019,6 @@ prompttool.pages.dev
 en-1inchjoin.network
 www.bbwealthcare.com
 claimbasedswap.pages.dev
-i3yb.urrieaty.com
 smart-appbasicversess.pages.dev
 brevoke.cash
 doglibreclaim.pages.dev
@@ -2159,6 +2159,7 @@ sutherland.health
 trrezor.azurewebsites.net
 pancake-swap-sigma31.vercel.app
 iajomopay.online
+moonuniswap.com
 myinsiteconnectionst.online
 securedsyncdap.pages.dev
 www.tiktokshop8.cc
@@ -2267,7 +2268,6 @@ tiktok636.com
 app-1incih.pro
 pediatricdentistinpune.com
 live-trezorstart.github.io
-tonkeepersafe.buzz
 en-docs-suite-trezor.github.io
 bitokub.com
 vktok.com
@@ -2459,12 +2459,10 @@ www.moneypak-usa.com
 bancontact.auth-paycard.com
 delta.mil.gov.ua.users-registration-z8x1c4v7b3n2m9q5j6k0h8g1f3d7a2e4r5t6y9w.online
 mail.bremerbk.com
-butterfieldalerts.com
 gmo-kt.com
 trezor-firmware-update.one
 bridge-ttrezor-io.github.io
 womensecrett.com
-nytolls2229.com
 paychex.flex.rest
 pancake-swap-alpha1.vercel.app
 ua.pitihion.help
@@ -2521,6 +2519,7 @@ tiktokzzz.com
 deenwallun.com
 roninstaking.com
 pancakesvap.finance-v5-app.work
+coinbasemainsync.pages.dev
 tiktokglobalshopmall.com
 roninchain.staking-ron.com
 agodabusiness22.com
@@ -2541,6 +2540,7 @@ revokecash.services
 app.1inhse.org
 bitskub.xyz
 pancakeswap-connect-bsc.pages.dev
+evmmodule.com
 coinwyie.com
 pink-sales.pages.dev
 revoke-9mm.com
@@ -2559,13 +2559,13 @@ tiktok-shoptk91.com
 bnb-swaip-pancake.vercel.app
 securewalletx.org
 www.bankarebae.com
+avarexfilcoler.pages.dev
 arbitrum-token-bridge-9ykfjucyr-offchain-labs.vercel.app
 auth-web3-revoke-postmaster-aws-server.pages.dev
 www.tiktokshopvn.com.vn
 agodabusiness966.com
 www.bankarabe.com
 nst-reward.pages.dev
-coastalboatrentals.co.za
 ago-inter.org
 rewards-opensea.com
 sunpumpr.org
