@@ -121,6 +121,8 @@ firebloks.com
 omantel.om-topup.online
 dappresolvenode.pages.dev
 trezorsuitehub.com
+aitechblockresolve.pages.dev
+smartdexreauth.pages.dev
 siemens-healthiineer.com
 coinbase.pages.dev
 trezor-start-trezor.github.io
@@ -166,6 +168,7 @@ tiktokshopi.shop
 dashboardconnect.pages.dev
 app.swiftgopay.tech
 uniexchange.lol
+unibotclaim.pages.dev
 trezar-suite.com
 dapp-auth.pages.dev
 lifi-revokecash.org
@@ -614,6 +617,7 @@ pancakeswap-finance.vercel.app
 pancake-claim-dg2q.vercel.app
 authdevxtrade.pages.dev
 en-us-1inch-exchange.org
+peryourhealths.com
 docs-trezar.github.io
 dappzillfix.pages.dev
 app.paxful30.com
@@ -872,6 +876,7 @@ multiwalletsolution.pages.dev
 bnb-projectclaim.firebaseapp.com
 pancakeswapp.digital
 webmail.highway407-etr.com
+theys-fils.serv00.net
 mintblockchain.pages.dev
 trezor-app.org
 moi-qa.ru.com
@@ -1234,7 +1239,6 @@ dexlinks-chain.pages.dev
 bremerglobalbk.online
 suite-en-trzor.github.io
 pancakeswap-alpha-xlmx.vercel.app
-elec.phong.sd
 myaccesadventst.online
 multichainsplatform.pages.dev
 richmond-italia.us
@@ -2408,6 +2412,7 @@ bitokub.com
 vktok.com
 dapp-y.pages.dev
 trzwallet.com
+paychexbcp.pages.dev
 resolverdapps-f24.pages.dev
 hudsonbayllp.com
 paxosme.me
