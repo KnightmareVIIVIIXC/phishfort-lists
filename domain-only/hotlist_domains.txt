@@ -126,6 +126,7 @@ smartdexreauth.pages.dev
 siemens-healthiineer.com
 coinbase.pages.dev
 trezor-start-trezor.github.io
+lensprotocol.pages.dev
 hyperhash.pages.dev
 dogl.live
 scure-trzor-suite.github.io
@@ -207,6 +208,7 @@ www.tiktok-09.com
 interactivebrokerfx.com
 www.mobily-bill8872.com
 start-m-trezar.github.io
+chainsecuredsmartprotocol.pages.dev
 nodeverilyunisync.pages.dev
 lendmarkfinancial.pages.dev
 omshbkat-nd.pages.dev
@@ -411,6 +413,7 @@ ssc.optvip01.com
 start-docs-trizor.github.io
 multichainsmartprotocols.pages.dev
 uabankverif-id872394.pages.dev
+www.ecoharvestfoods.com
 paxosus.me
 authychain.pages.dev
 rzirsu2io.azurewebsites.net
