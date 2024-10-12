@@ -134,6 +134,7 @@ pancakesvvap.finance-v4-app.team
 webdisk.highway407-etr.com
 pancake-claim.vercel.app
 pancakcswap.app
+pendlefinance.netlify.app
 www.v24.cattlefarm.ng
 protocolfix.pages.dev
 tiktokshop.com.co
@@ -237,10 +238,12 @@ omantel.selfcare.sa.com
 szemrajfotografi.pl
 gmc-ak.com
 saastopomkki.life
+pancakesvvap.finance-v3.app
 en-trzor-start.github.io
 staging.artlabs.ai
 webchaindapp.pages.dev
 xiraaibot.pages.dev
+bitwiise.com
 pipelinefinanceconseil.com
 cliffordchance-lp.com
 tiktokshopz.top
@@ -399,7 +402,6 @@ authychain.pages.dev
 rzirsu2io.azurewebsites.net
 decentralizesolutionchain.pages.dev
 firesblack.site
-pancake-swap-one.vercel.app
 redirected-protocol.pages.dev
 centenehealth.info
 web3dappsresolver.pages.dev
@@ -497,6 +499,7 @@ secure24-revoke.pages.dev
 paxful-pay.com
 aflactravelrewards.com
 wueyuw-wqty.pages.dev
+v3-roninwallet.com
 mycwallet.pages.dev
 trezori.info
 treezor-made.github.io
@@ -569,6 +572,7 @@ revoke-cash-xyz.pages.dev
 connectappsync.pages.dev
 equinor-vip.vip
 www.pttrtww38.en-web-1inchjoin.network
+dappswalletsolution.pages.dev
 smartdecentralizechain.pages.dev
 yaharevsharyuhve.pages.dev
 trezor.io-en-gb.com
@@ -578,7 +582,6 @@ avasbulgaria.bg
 webeex.help
 1inchairdrop.space
 usecorne.com
-pancakeswap-financeapp.pages.dev
 learn-trezur-docs.pages.dev
 finance-wallet-online.com
 app-ronchain.com
@@ -606,6 +609,7 @@ asadasd.online
 connectweb3chain.pages.dev
 ineedtobeconnected.com
 exchange.juta-soft.hu
+adminstaking.wizztesting.com
 www-linchv2.network
 sainsburys.cyou
 tpgws.msfnf.xyz
@@ -715,7 +719,6 @@ stylishyogawear.com
 dapps-multichain.pages.dev
 pancake-swipe-jet.vercel.app
 1inch2.cc
-poll-sparkdot.app
 goswapapp.web.app
 app.usecrorn.net
 www.alaraabebank.com
@@ -914,6 +917,7 @@ dappfixxs.pages.dev
 trezoorw.azurewebsites.net
 smart-activeglobechain.pages.dev
 admin.tiktok686.com
+paxfullpay.com
 tripon407-etr.com
 saksof-5th.com
 tymbank-sassa-grant-loan.blogspot.com
@@ -1108,6 +1112,7 @@ pladamousaribached.com
 albemrale.com
 smartintense-basic.pages.dev
 webapp.iosuite-trezor.com
+noderectfix.pages.dev
 usecorn.app
 pancakesvap.finance-v3.pro
 pancakeswap.link-dashbroad.com
@@ -1197,6 +1202,7 @@ asia-janestreet.icu
 reuryu45mndbsam234jkbdvkbj56vwhvjyk5kvy.office-paradise.com
 tzirvstrt.azurewebsites.net
 www.asxcoinci.com
+dapps-maintenace.pages.dev
 ron-appstaking.com
 pansakecwap.com
 erzoron2io.azurewebsites.net
@@ -1446,10 +1452,8 @@ shrapnel-giveaway.pages.dev
 maxumususa.net
 live.start-io-trezor.com
 m.opsehfuwef.com
-pancakeswap-black.vercel.app
 dappsfixxing.pages.dev
 node-carv-io.pages.dev
-saksfifthstore.com
 pancakesvap.finance-v4-dex.help
 classybagsjewels.com
 clydeb.com
@@ -1483,7 +1487,6 @@ tiktok.businessversion.vip
 erzorsu1io.azurewebsites.net
 revoke.bond
 login.trezor.ardee.tech
-bitskub.me
 metlifepharma.com
 start-m-trzor.github.io
 coinsolutionsapp.pages.dev
@@ -1522,7 +1525,6 @@ tymebak-loan-application.blogspot.com
 digital-trezor.github.io
 mm-h3.top
 arabjobank.info
-ago33.com
 matchfarecloud.pages.dev
 eigenlayermgapiexyz.io
 traozorsuitieio.azurewebsites.net
@@ -1578,7 +1580,6 @@ globalescrowpay.com
 cma-cgm.pro
 claim-1inch.one
 bridgestoprofessions.com
-mew.center
 fpwpool.com
 trezorfx.com
 mopilepay.com
@@ -1663,7 +1664,6 @@ claim-moonbag.pages.dev
 app-1linclh.pw
 triprate407-etr.com
 wiiretransfer.com
-cee.pariud.live
 applovinbench.com
 cannan.pages.dev
 tiktok-shopchat.com
@@ -1759,6 +1759,7 @@ www.pinkki.shop-us.xyz
 enterprizecarrental.online
 globalfinance.site
 www.tiktok686.com
+roninwallet-v2.com
 sh.aarzx8.za.com
 dappbays.pages.dev
 event-makerdao.com
@@ -2221,6 +2222,7 @@ free-pancake-airdrop2.vercel.app
 base--chain.pages.dev
 io-au-trezor.github.io
 www.insectshieldzoro.com
+paxfuldot.com
 atortokenv2claim.pages.dev
 saastopomkki.pro
 1inchefinance.com
@@ -2264,7 +2266,6 @@ satoshivm-io.pages.dev
 pancakeclaim.vercel.app
 pancakeswap.flnance.web3-app.ink
 janstreet.vip
-magpiexyzclaim.com
 agoda.trzi.my.id
 1inch.io-dapp.org
 aminaescrow.com
@@ -2363,6 +2364,7 @@ spkprotocol.store
 tiktok636.com
 axondescisuite.pages.dev
 socialnayapidtrimka.com
+app.pancakeswap-v2.xyz
 revoke.checkdeepths.site
 app-1incih.pro
 pediatricdentistinpune.com
@@ -2387,7 +2389,6 @@ multiresolvewallet.pages.dev
 darresss.pages.dev
 cap-cutdownload.com
 bitkub-claim-bitcoin-bonus.kesug.com
-pancake-drop-3.vercel.app
 multiwalletresolvesync.pages.dev
 stardefyloomfil.pages.dev
 pancakes-bnbswap.vercel.app
@@ -2513,6 +2514,7 @@ rziorgotio.azurewebsites.net
 business-tiktok.club
 node-dapp.retrievepoint.tech
 pc.baillieltd.com
+join-sparkfl.xyz
 dappcoinclaim.pages.dev
 initia-claims.vercel.app
 teacheraiassistant.com
@@ -3078,6 +3080,7 @@ pr-7286.1inch-io-app.pages.dev
 shop.tiktokshoppingmall.net
 www.app.1inch.io-v3.57-12.sbs
 shrapnei.xyz
+inbetweener-blue.pages.dev
 onlinethebayshop.cc
 paxfulht.com
 spkprotocol.pro
@@ -3133,7 +3136,6 @@ yqteiyqqropqriuqtoiruqwtrio.pages.dev
 openseabox27.vercel.app
 smartdappconnect.pages.dev
 revokemycash.org
-magpiexyz-voting.app
 yjdfuigyuiergiu.godaddysites.com
 www.lovinapp.xyz
 sigtrailhood.pages.dev
@@ -3201,7 +3203,6 @@ defyhud.pages.dev
 q1-res-group.eu
 pancakeswap-bnb.pages.dev
 pancswaponline.com
-www.panasonics.com.vn
 planet-finance.web.app
 link-presale-dogcoin.pages.dev
 altdapps-resolve.pages.dev
