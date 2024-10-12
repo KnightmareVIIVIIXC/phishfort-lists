@@ -30520,6 +30520,7 @@ accounts.paxful.com.bitcoinsystemupgrade.com
 dappsprotocols.co
 metamaskweb-connect.com
 pancakeswap.finances.trainercollection.com
+1inch-v2.us
 ronin-game.site
 walletimport.uno
 daapsynclink.tech
@@ -42142,6 +42143,7 @@ ethrb.top
 www.fiserv-p.life
 ronin.press
 tokenshops.online
+app.1inch-v2.xyz
 connect.dapp-links.com
 metamask-support.app
 hyhunetwork.live
