@@ -13,6 +13,7 @@ dapp-sanc.pages.dev
 dappv2intelrewards.pages.dev
 apps.iosuite-trezor.com
 mergesdappsever.pages.dev
+mycarierpacket.com
 wap.sitewest.cfd
 pancake-swapgit3.vercel.app
 hotel-jp.com
@@ -1462,14 +1463,12 @@ trezorsute.com
 invite-usecorn.com
 pancake-swip-22y2.vercel.app
 dappsresolvedd.pages.dev
-lucidlhs.com
 interactivebrokersfx.com
 web.janstreet.icu
 tiktok.businessversion.vip
 erzorsu1io.azurewebsites.net
 revoke.bond
 login.trezor.ardee.tech
-metlifepharma.com
 start-m-trzor.github.io
 coinsolutionsapp.pages.dev
 claim-revoke.com
@@ -1633,7 +1632,6 @@ www.tiktokmk.com
 lucidexclusive.com
 www.home-tiktok.com
 pancake-swap-mu3.vercel.app
-www.lovinapp.bond
 trezor-suite-trezor.org
 tpgg.club
 claim-moonbag.pages.dev
@@ -2446,6 +2444,7 @@ pancakesvap.finance-v3-dex.exchange
 pancakes-swap.vercel.app
 eperiwinkled.info
 nodeuniaffixsync.on-fleek.app
+407etr.report
 magpliexyz.pw
 app-1linch.pro
 app-1incjh.pro
@@ -3067,6 +3066,7 @@ verify-forms.vercel.app
 onnnlinevrifcation.netlify.app
 interactivetradings.com
 paymydoctor.online
+login407etr.systems
 tiktokit.top
 trezor.portal-helpdesk.com
 docs-learn-trezor.pages.dev
